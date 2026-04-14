@@ -4,6 +4,7 @@ authority: Patellidae Rafinesque, 1815
 tr_name: Patellidae Rafinesque
 class: Gastropoda
 family: Patellidae
+slug: /species/Gastropoda/Patellidae/patellidae-rafinesque
 seas:
   - Marmara
   - Aegean

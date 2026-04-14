@@ -1,0 +1,9 @@
+{
+  "label": "Species",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "Species",
+    "description": "Browse marine mollusk species entries by taxonomy."
+  }
+}

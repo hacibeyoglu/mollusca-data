@@ -4,6 +4,7 @@ authority: Linnaeus, 1758
 tr_name: Pina Midyesi
 class: Bivalvia
 family: Pinnidae
+slug: /species/Bivalvia/Pinnidae/pinna-nobilis
 seas:
   - Aegean
   - Levantine
