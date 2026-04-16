@@ -4,14 +4,18 @@ authority: Patellidae Rafinesque, 1815
 tr_name: Patellidae Rafinesque
 class: Gastropoda
 family: Patellidae
-slug: /species/Gastropoda/Patellidae/patellidae-rafinesque
 seas:
   - Marmara
   - Aegean
   - Levantine
   - Black Sea
 depth: "123"
+slug: /species/Gastropoda/Patellidae/patellidae-rafinesque
 status: Native
+images:
+  - image: /img/species/patellidae-rafinesque-1815.png
+    description: İki farklı kabuğun dorsalden (A) ve ventralden (B) genel
+      görünüşü               	(A= 50,2 mm; B= 49,8 mm)
 image: /img/species/patellidae-rafinesque-1815.png
 ---
 
