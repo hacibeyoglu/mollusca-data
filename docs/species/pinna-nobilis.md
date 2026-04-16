@@ -10,7 +10,9 @@ seas:
   - Levantine
 depth: 0-60m
 status: Native
-image: /img/species/pinna-nobilis.jpg
+images:
+  - image: /img/species/pinna-nobilis.jpg
+    description: Pinna nobilis in its typical shell form
 ---
 
 Large pen shell observed in seagrass meadows and soft bottoms.
