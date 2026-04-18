@@ -14,6 +14,6 @@ depth: 10-15m
 status: Native
 images:
   - image: /img/species/patellidae-rafinesque-1815.png
-    description: Sekil resim iki kabuk mukemme
+    description: Sekil resim iki kabuk mukemmel
 summary: TBD
 ---
