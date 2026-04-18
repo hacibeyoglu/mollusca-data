@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Campaniloidea"
 family: "Ampullinidae"
 genus: "Ampullinopsis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

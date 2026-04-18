@@ -8,7 +8,7 @@ order: "Adapedonta"
 superfamily: "Hiatelloidea"
 family: "Hiatellidae"
 genus: "Hiatella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Enidae"
 genus: "Pseudochondrula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

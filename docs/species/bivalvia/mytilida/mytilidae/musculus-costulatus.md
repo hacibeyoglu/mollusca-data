@@ -9,7 +9,7 @@ superfamily: "Mytiloidea"
 family: "Mytilidae"
 subfamily: "Crenellinae"
 genus: "Musculus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

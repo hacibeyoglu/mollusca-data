@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Stromboidea"
 family: "Aporrhaidae"
 genus: "Aporrhais"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

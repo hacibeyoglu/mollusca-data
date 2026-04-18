@@ -10,7 +10,7 @@ family: "Cypraeidae"
 subfamily: "Erroneinae"
 tribe: "Erroneini"
 genus: "Purpuradusta"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

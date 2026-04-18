@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Calyptraeoidea"
 family: "Calyptraeidae"
 genus: "Crepidula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

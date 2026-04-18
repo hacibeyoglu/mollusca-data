@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Eoderocerataceae"
 family: "Polymorphitidae"
 genus: "Uptonia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

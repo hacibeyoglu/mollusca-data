@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Spelaeodiscidae"
 genus: "Aspasita"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

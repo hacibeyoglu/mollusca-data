@@ -8,7 +8,7 @@ order: "Gastrochaenida"
 superfamily: "Gastrochaenoidea"
 family: "Gastrochaenidae"
 genus: "Cucurbitula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

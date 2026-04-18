@@ -9,7 +9,7 @@ superfamily: "Cypraeoidea"
 family: "Cypraeidae"
 subfamily: "Erosariinae"
 genus: "Naria"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

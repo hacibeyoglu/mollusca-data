@@ -9,7 +9,7 @@ superfamily: "Ostreoidea"
 family: "Gryphaeidae"
 subfamily: "Exogyrinae"
 genus: "Exogyra"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

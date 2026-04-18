@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Truncatelloidea"
 family: "Iravadiidae"
 genus: "Hyala"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

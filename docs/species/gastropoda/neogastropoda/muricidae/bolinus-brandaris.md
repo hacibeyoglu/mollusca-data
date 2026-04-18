@@ -9,7 +9,7 @@ superfamily: "Muricoidea"
 family: "Muricidae"
 subfamily: "Muricinae"
 genus: "Bolinus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

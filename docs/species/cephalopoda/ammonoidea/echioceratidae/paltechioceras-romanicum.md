@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Psilocerataceae"
 family: "Echioceratidae"
 genus: "Paltechioceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

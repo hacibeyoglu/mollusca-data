@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Lauriidae"
 genus: "Lauria"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

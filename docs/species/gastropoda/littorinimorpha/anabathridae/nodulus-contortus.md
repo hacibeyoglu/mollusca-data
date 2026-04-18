@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Truncatelloidea"
 family: "Anabathridae"
 genus: "Nodulus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ superfamily: "Cardioidea"
 family: "Cardiidae"
 subfamily: "Laevicardiinae"
 genus: "Laevicardium"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

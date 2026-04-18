@@ -9,7 +9,7 @@ superfamily: "Mytiloidea"
 family: "Modiolidae"
 subfamily: "Bathymodiolinae"
 genus: "Idas"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

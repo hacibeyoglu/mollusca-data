@@ -8,7 +8,7 @@ order: "Neogastropoda"
 superfamily: "Buccinoidea"
 family: "Pisaniidae"
 genus: "Aplus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

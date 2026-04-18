@@ -9,7 +9,7 @@ superfamily: "Punctoidea"
 family: "Punctidae"
 subfamily: "Punctinae"
 genus: "Punctum"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

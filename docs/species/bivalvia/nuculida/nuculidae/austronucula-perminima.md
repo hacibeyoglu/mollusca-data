@@ -8,7 +8,7 @@ order: "Nuculida"
 superfamily: "Nuculoidea"
 family: "Nuculidae"
 genus: "Austronucula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

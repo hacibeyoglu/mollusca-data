@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Ceratitaceae"
 family: "Acrochordiceratidae"
 genus: "Acrochordiceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

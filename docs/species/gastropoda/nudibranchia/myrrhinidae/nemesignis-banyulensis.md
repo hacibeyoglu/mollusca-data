@@ -9,7 +9,7 @@ suborder: "Aeolidina"
 superfamily: "Aeolidioidea"
 family: "Myrrhinidae"
 genus: "Nemesignis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

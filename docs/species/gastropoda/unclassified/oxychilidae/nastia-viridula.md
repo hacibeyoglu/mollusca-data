@@ -9,7 +9,7 @@ superfamily: "Gastrodontoidea"
 family: "Oxychilidae"
 subfamily: "Nastiinae"
 genus: "Nastia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

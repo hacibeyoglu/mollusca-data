@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Stromboidea"
 family: "Strombidae"
 genus: "Conomurex"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

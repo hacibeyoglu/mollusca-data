@@ -7,7 +7,7 @@ subclass: "Coleoidea"
 order: "Unclassified"
 family: "Octopodidae"
 genus: "Octopus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

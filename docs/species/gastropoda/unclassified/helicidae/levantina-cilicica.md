@@ -9,7 +9,7 @@ family: "Helicidae"
 subfamily: "Helicinae"
 tribe: "Helicini"
 genus: "Levantina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

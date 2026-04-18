@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Ceratitaceae"
 family: "Balatonitidae"
 genus: "Cuccoceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

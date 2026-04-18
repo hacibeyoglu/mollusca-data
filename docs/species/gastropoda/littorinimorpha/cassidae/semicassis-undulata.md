@@ -9,7 +9,7 @@ superfamily: "Tonnoidea"
 family: "Cassidae"
 subfamily: "Phaliinae"
 genus: "Semicassis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

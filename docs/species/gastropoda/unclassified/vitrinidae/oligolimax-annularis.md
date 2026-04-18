@@ -9,7 +9,7 @@ superfamily: "Limacoidea"
 family: "Vitrinidae"
 subfamily: "Vitrininae"
 genus: "Oligolimax"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

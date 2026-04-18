@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Helicidae"
 subfamily: "Ariantinae"
 genus: "Arianta"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

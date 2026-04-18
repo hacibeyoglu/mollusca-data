@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Physidae"
 subfamily: "Physinae"
 genus: "Physa"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

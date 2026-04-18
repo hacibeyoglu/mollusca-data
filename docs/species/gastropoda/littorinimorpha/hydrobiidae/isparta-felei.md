@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Truncatelloidea"
 family: "Hydrobiidae"
 genus: "Isparta"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

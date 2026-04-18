@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Bulloidea"
 family: "Retusidae"
 genus: "Retusa"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ superfamily: "Cranchioidea"
 family: "Cranchiidae"
 subfamily: "Cranchiinae"
 genus: "Leachia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

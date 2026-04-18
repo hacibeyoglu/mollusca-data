@@ -7,7 +7,7 @@ subclass: "Autobranchia"
 order: "Venerida"
 family: "Sphaeriidae"
 genus: "Sphaerium"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -10,7 +10,7 @@ family: "Achatinidae"
 subfamily: "Achatininae"
 tribe: "Limicolariini"
 genus: "Columna"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

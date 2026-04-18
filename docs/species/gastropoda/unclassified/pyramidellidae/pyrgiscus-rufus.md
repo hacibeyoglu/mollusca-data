@@ -9,7 +9,7 @@ superfamily: "Pyramidelloidea"
 family: "Pyramidellidae"
 subfamily: "Turbonillinae"
 genus: "Pyrgiscus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

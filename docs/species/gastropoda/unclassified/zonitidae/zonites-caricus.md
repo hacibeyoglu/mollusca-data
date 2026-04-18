@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Zonitoidea"
 family: "Zonitidae"
 genus: "Zonites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

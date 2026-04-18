@@ -9,7 +9,7 @@ superfamily: "Gastrodontoidea"
 family: "Oxychilidae"
 subfamily: "Oxychilinae"
 genus: "Mediterranea"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

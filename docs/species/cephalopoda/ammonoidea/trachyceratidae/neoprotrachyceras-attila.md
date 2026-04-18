@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Clydonitaceae"
 family: "Trachyceratidae"
 genus: "Neoprotrachyceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

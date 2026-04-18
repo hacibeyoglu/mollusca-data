@@ -9,7 +9,7 @@ superfamily: "Triphoroidea"
 family: "Triphoridae"
 subfamily: "Triphorinae"
 genus: "Marshallora"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

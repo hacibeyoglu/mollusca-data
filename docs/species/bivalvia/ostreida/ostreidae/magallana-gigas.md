@@ -9,7 +9,7 @@ superfamily: "Ostreoidea"
 family: "Ostreidae"
 subfamily: "Crassostreinae"
 genus: "Magallana"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -10,7 +10,7 @@ family: "Pectinidae"
 subfamily: "Pedinae"
 tribe: "Chlamydini"
 genus: "Talochlamys"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

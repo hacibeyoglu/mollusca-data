@@ -9,7 +9,7 @@ family: "Geomitridae"
 subfamily: "Helicellinae"
 tribe: "Helicopsini"
 genus: "Xeropicta"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

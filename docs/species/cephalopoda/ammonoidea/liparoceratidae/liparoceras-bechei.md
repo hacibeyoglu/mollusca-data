@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Eoderocerataceae"
 family: "Liparoceratidae"
 genus: "Liparoceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

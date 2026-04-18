@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Unclassified"
 tribe: "Chondrulini"
 genus: "Zebrina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

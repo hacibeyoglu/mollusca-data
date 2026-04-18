@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Arcestaceae"
 family: "Arcestidae"
 genus: "Proarcestes"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

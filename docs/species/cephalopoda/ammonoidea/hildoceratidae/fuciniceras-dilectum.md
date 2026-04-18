@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Hildocerataceae"
 family: "Hildoceratidae"
 genus: "Fuciniceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

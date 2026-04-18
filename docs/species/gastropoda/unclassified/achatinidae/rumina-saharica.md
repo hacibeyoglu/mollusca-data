@@ -9,7 +9,7 @@ superfamily: "Achatinoidea"
 family: "Achatinidae"
 subfamily: "Rumininae"
 genus: "Rumina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

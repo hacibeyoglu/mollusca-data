@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Dinaritaceae"
 family: "Unclassified"
 genus: "Ismidites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

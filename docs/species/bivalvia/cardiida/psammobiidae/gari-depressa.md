@@ -8,7 +8,7 @@ order: "Cardiida"
 superfamily: "Tellinoidea"
 family: "Psammobiidae"
 genus: "Gari"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

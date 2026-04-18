@@ -10,7 +10,7 @@ superfamily: "Cryptoplacoidea"
 family: "Acanthochitonidae"
 subfamily: "Acanthochitoninae"
 genus: "Acanthochitona"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

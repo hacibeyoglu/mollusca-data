@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Unclassified"
 subfamily: "Montacutinae"
 genus: "Epilepton"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

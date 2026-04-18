@@ -9,7 +9,7 @@ superfamily: "Truncatelloidea"
 family: "Bithyniidae"
 subfamily: "Bithyniinae"
 genus: "Bithynia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Tropitaceae"
 family: "Haloritidae"
 genus: "Trachysagenites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

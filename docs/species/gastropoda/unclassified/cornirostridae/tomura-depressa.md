@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Valvatoidea"
 family: "Cornirostridae"
 genus: "Tomura"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Doridoidea"
 family: "Discodorididae"
 genus: "Peltodoris"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

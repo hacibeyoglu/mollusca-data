@@ -9,7 +9,7 @@ superfamily: "Veneroidea"
 family: "Veneridae"
 subfamily: "Venerinae"
 genus: "Clausinella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

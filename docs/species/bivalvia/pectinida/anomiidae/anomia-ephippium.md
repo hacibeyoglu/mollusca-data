@@ -8,7 +8,7 @@ order: "Pectinida"
 superfamily: "Anomioidea"
 family: "Anomiidae"
 genus: "Anomia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

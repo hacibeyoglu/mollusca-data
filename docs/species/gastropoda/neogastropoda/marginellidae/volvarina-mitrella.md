@@ -9,7 +9,7 @@ superfamily: "Volutoidea"
 family: "Marginellidae"
 subfamily: "Marginellinae"
 genus: "Volvarina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

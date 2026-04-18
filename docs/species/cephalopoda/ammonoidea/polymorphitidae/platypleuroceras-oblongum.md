@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Eoderocerataceae"
 family: "Polymorphitidae"
 genus: "Platypleuroceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

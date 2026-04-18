@@ -9,7 +9,7 @@ superfamily: "Truncatelloidea"
 family: "Assimineidae"
 subfamily: "Ekadantinae"
 genus: "Paludinella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

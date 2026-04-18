@@ -9,7 +9,7 @@ superfamily: "Truncatelloidea"
 family: "Caecidae"
 subfamily: "Caecinae"
 genus: "Caecum"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ family: "Planorbidae"
 subfamily: "Planorbinae"
 tribe: "Planorbini"
 genus: "Planorbis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

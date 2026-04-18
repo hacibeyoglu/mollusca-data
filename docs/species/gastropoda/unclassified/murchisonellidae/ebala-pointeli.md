@@ -9,7 +9,7 @@ superfamily: "Murchisonelloidea"
 family: "Murchisonellidae"
 subfamily: "Ebalinae"
 genus: "Ebala"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

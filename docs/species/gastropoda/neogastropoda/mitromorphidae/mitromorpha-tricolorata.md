@@ -8,7 +8,7 @@ order: "Neogastropoda"
 superfamily: "Conoidea"
 family: "Mitromorphidae"
 genus: "Mitromorpha"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

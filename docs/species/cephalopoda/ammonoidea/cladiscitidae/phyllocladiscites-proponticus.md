@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Arcestaceae"
 family: "Cladiscitidae"
 genus: "Phyllocladiscites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ superfamily: "Veneroidea"
 family: "Veneridae"
 subfamily: "Dosiniinae"
 genus: "Dosinia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

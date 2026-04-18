@@ -9,7 +9,7 @@ superfamily: "Pectinoidea"
 family: "Spondylidae"
 subfamily: "Spondylinae"
 genus: "Spondylus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

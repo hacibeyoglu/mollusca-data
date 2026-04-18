@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Rissooidea"
 family: "Rissoidae"
 genus: "Obtusella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

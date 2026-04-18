@@ -8,7 +8,7 @@ order: "Cardiida"
 superfamily: "Tellinoidea"
 family: "Semelidae"
 genus: "Abra"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

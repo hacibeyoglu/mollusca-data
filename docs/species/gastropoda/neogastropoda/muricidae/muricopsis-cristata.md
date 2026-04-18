@@ -9,7 +9,7 @@ superfamily: "Muricoidea"
 family: "Muricidae"
 subfamily: "Aspellinae"
 genus: "Muricopsis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

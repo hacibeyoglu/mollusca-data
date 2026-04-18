@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Cerithioidea"
 family: "Melanopsidae"
 genus: "Melanopsis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

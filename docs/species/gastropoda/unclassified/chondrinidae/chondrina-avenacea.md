@@ -9,7 +9,7 @@ superfamily: "Chondrinoidea"
 family: "Chondrinidae"
 subfamily: "Chondrininae"
 genus: "Chondrina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ superfamily: "Chromodoridoidea"
 family: "Chromodorididae"
 subfamily: "Chromodoridinae"
 genus: "Goniobranchus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

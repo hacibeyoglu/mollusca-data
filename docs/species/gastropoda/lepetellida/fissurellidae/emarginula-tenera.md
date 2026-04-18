@@ -9,7 +9,7 @@ superfamily: "Fissurelloidea"
 family: "Fissurellidae"
 subfamily: "Emarginulinae"
 genus: "Emarginula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

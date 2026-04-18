@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Naticoidea"
 family: "Naticidae"
 genus: "Cepatia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

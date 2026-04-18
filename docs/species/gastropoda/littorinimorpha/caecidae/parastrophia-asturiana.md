@@ -9,7 +9,7 @@ superfamily: "Truncatelloidea"
 family: "Caecidae"
 subfamily: "Ctiloceratinae"
 genus: "Parastrophia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

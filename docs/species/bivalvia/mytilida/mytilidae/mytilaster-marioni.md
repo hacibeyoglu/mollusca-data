@@ -9,7 +9,7 @@ superfamily: "Mytiloidea"
 family: "Mytilidae"
 subfamily: "Brachidontinae"
 genus: "Mytilaster"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

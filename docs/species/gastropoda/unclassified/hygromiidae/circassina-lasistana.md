@@ -9,7 +9,7 @@ family: "Hygromiidae"
 subfamily: "Trochulininae"
 tribe: "Caucasigenini"
 genus: "Circassina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

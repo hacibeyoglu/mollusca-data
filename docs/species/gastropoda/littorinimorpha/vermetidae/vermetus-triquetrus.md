@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Vermetoidea"
 family: "Vermetidae"
 genus: "Vermetus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

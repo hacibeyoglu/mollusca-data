@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Polygyridae"
 subfamily: "Polygyrinae"
 genus: "Polygyra"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

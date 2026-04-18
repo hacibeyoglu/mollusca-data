@@ -8,7 +8,7 @@ order: "Arcida"
 superfamily: "Arcoidea"
 family: "Glycymerididae"
 genus: "Glycymeris"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

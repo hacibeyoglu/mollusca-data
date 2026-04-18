@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Pinacocerataceae"
 family: "Gymnitidae"
 genus: "Gymnites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

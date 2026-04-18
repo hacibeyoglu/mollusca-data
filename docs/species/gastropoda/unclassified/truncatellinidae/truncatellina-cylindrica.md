@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Chondrinoidea"
 family: "Truncatellinidae"
 genus: "Truncatellina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

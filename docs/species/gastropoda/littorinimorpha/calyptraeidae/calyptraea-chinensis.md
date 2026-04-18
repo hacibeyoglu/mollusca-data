@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Calyptraeoidea"
 family: "Calyptraeidae"
 genus: "Calyptraea"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

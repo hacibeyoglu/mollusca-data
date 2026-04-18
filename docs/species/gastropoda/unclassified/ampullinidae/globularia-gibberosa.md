@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Campaniloidea"
 family: "Ampullinidae"
 genus: "Globularia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

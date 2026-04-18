@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Eoderocerataceae"
 family: "Polymorphitidae"
 genus: "Polymorphites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

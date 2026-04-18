@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Unclassified"
 tribe: "Multidentulini"
 genus: "Euchondrus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

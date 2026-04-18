@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Epitonioidea"
 family: "Epitoniidae"
 genus: "Opalia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

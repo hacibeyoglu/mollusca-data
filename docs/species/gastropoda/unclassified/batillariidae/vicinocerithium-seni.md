@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Cerithioidea"
 family: "Batillariidae"
 genus: "Vicinocerithium"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

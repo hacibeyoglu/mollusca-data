@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Calycidorididae"
 genus: "Diaphorodoris"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ superfamily: "Lucinoidea"
 family: "Lucinidae"
 subfamily: "Myrteinae"
 genus: "Myrtea"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

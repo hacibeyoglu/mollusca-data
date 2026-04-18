@@ -8,7 +8,7 @@ order: "Oegopsida"
 superfamily: "Enoploteuthoidea"
 family: "Pyroteuthidae"
 genus: "Pyroteuthis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

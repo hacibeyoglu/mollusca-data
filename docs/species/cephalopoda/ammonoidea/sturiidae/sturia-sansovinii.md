@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Ptychitaceae"
 family: "Sturiidae"
 genus: "Sturia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

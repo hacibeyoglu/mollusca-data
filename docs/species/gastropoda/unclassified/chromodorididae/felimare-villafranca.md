@@ -9,7 +9,7 @@ superfamily: "Chromodoridoidea"
 family: "Chromodorididae"
 subfamily: "Miamirinae"
 genus: "Felimare"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

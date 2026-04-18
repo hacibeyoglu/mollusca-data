@@ -8,7 +8,7 @@ order: "Neomphalida"
 superfamily: "Neomphaloidea"
 family: "Peltospiridae"
 genus: "Rhynchopelta"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

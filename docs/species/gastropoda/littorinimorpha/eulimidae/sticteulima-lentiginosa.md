@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Vanikoroidea"
 family: "Eulimidae"
 genus: "Sticteulima"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

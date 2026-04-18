@@ -6,7 +6,7 @@ class: "Scaphopoda"
 order: "Dentaliida"
 family: "Dentaliidae"
 genus: "Antalis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

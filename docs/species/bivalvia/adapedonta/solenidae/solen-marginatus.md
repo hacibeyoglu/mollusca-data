@@ -8,7 +8,7 @@ order: "Adapedonta"
 superfamily: "Solenoidea"
 family: "Solenidae"
 genus: "Solen"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Stromboidea"
 family: "Xenophoridae"
 genus: "Xenophora"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

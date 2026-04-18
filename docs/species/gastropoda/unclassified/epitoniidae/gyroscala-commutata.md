@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Epitonioidea"
 family: "Epitoniidae"
 genus: "Gyroscala"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

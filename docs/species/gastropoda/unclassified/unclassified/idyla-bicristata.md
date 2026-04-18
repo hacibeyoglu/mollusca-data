@@ -9,7 +9,7 @@ family: "Unclassified"
 subfamily: "Clausiliinae"
 tribe: "Filosini"
 genus: "Idyla"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

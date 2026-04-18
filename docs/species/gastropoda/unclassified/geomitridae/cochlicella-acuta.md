@@ -9,7 +9,7 @@ family: "Geomitridae"
 subfamily: "Geomitrinae"
 tribe: "Cochlicellini"
 genus: "Cochlicella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

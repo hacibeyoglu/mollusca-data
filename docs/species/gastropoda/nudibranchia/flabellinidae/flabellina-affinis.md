@@ -9,7 +9,7 @@ suborder: "Aeolidina"
 superfamily: "Aeolidioidea"
 family: "Flabellinidae"
 genus: "Flabellina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Pandoroidea"
 family: "Pandoridae"
 genus: "Pandora"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

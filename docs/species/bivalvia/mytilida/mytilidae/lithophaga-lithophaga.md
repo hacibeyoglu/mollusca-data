@@ -9,7 +9,7 @@ superfamily: "Mytiloidea"
 family: "Mytilidae"
 subfamily: "Lithophaginae"
 genus: "Lithophaga"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

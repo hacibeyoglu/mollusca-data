@@ -9,7 +9,7 @@ superfamily: "Cardioidea"
 family: "Cardiidae"
 subfamily: "Cardiinae"
 genus: "Fulvia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

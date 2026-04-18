@@ -9,7 +9,7 @@ superfamily: "Capuloidea"
 family: "Capulidae"
 subfamily: "Capulinae"
 genus: "Capulus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

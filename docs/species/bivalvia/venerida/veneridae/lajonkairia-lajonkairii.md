@@ -9,7 +9,7 @@ superfamily: "Veneroidea"
 family: "Veneridae"
 subfamily: "Petricolinae"
 genus: "Lajonkairia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

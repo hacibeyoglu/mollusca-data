@@ -8,7 +8,7 @@ order: "Aplysiida"
 superfamily: "Aplysioidea"
 family: "Aplysiidae"
 genus: "Aplysia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

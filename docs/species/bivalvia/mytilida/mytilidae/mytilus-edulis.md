@@ -9,7 +9,7 @@ superfamily: "Mytiloidea"
 family: "Mytilidae"
 subfamily: "Mytilinae"
 genus: "Mytilus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

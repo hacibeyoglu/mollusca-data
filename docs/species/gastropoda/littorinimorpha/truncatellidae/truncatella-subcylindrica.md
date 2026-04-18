@@ -9,7 +9,7 @@ superfamily: "Truncatelloidea"
 family: "Truncatellidae"
 subfamily: "Truncatellinae"
 genus: "Truncatella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

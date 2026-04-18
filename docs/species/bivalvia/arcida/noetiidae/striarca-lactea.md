@@ -8,7 +8,7 @@ order: "Arcida"
 superfamily: "Arcoidea"
 family: "Noetiidae"
 genus: "Striarca"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

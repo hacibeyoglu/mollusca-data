@@ -9,7 +9,7 @@ superfamily: "Mactroidea"
 family: "Mactridae"
 subfamily: "Mactrinae"
 genus: "Spisula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

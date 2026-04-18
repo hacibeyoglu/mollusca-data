@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Helicidae"
 subfamily: "Ariantinae"
 genus: "Thiessea"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

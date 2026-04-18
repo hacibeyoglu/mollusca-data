@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Unclassified"
 tribe: "Lymnaeini"
 genus: "Lymnaea"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

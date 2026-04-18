@@ -7,7 +7,7 @@ subclass: "Autobranchia"
 order: "Unclassified"
 family: "Unclassified"
 genus: "Unclassified"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

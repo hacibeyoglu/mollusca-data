@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Milacidae"
 genus: "Tandonia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

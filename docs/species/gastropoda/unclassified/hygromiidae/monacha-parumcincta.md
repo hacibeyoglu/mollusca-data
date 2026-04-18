@@ -9,7 +9,7 @@ family: "Hygromiidae"
 subfamily: "Trochulininae"
 tribe: "Monachaini"
 genus: "Monacha"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

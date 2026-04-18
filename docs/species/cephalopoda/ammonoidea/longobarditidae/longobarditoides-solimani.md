@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Ceratitaceae"
 family: "Longobarditidae"
 genus: "Longobarditoides"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

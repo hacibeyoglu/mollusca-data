@@ -9,7 +9,7 @@ family: "Helicidae"
 subfamily: "Helicinae"
 tribe: "Thebini"
 genus: "Theba"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

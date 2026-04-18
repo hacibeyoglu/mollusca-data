@@ -9,7 +9,7 @@ superfamily: "Veneroidea"
 family: "Veneridae"
 subfamily: "Callocardiinae"
 genus: "Callista"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Cochlicopidae"
 genus: "Cochlicopa"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

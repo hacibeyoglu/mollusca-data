@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Haminoeoidea"
 family: "Haminoeidae"
 genus: "Atys"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

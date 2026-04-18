@@ -10,7 +10,7 @@ family: "Pectinidae"
 subfamily: "Pectininae"
 tribe: "Aequipectinini"
 genus: "Flexopecten"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

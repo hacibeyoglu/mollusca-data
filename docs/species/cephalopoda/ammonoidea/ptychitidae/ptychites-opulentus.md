@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Ptychitaceae"
 family: "Ptychitidae"
 genus: "Ptychites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

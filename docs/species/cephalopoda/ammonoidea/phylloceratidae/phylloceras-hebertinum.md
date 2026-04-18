@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Phyllocerataceae"
 family: "Phylloceratidae"
 genus: "Phylloceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

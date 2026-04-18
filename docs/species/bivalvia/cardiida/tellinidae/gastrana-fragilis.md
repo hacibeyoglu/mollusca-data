@@ -9,7 +9,7 @@ superfamily: "Tellinoidea"
 family: "Tellinidae"
 subfamily: "Gastraninae"
 genus: "Gastrana"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Mimagoniatitaceae"
 family: "Latanarcestidae"
 genus: "Latanarcestes"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

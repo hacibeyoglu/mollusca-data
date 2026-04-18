@@ -9,7 +9,7 @@ suborder: "Hippuritidina"
 superfamily: "Radiolitoidea"
 family: "Plagioptychidae"
 genus: "Paracaprinula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Cardiida"
 superfamily: "Tellinoidea"
 family: "Donacidae"
 genus: "Donax"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -7,7 +7,7 @@ subclass: "Autobranchia"
 order: "Venerida"
 family: "Lasaeidae"
 genus: "Lasaea"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

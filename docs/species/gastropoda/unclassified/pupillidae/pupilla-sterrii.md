@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Pupillidae"
 genus: "Pupilla"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

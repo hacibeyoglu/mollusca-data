@@ -9,7 +9,7 @@ superfamily: "Muricoidea"
 family: "Muricidae"
 subfamily: "Rapaninae"
 genus: "Indothais"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

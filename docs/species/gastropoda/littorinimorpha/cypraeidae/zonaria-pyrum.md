@@ -10,7 +10,7 @@ family: "Cypraeidae"
 subfamily: "Zonariinae"
 tribe: "Zonariini"
 genus: "Zonaria"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

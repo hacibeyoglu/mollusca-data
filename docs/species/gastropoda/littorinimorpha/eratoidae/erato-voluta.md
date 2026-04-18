@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Velutinoidea"
 family: "Eratoidae"
 genus: "Erato"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

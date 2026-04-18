@@ -8,7 +8,7 @@ order: "Cardiida"
 superfamily: "Tellinoidea"
 family: "Solecurtidae"
 genus: "Solecurtus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

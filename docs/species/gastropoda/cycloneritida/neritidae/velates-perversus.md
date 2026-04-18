@@ -9,7 +9,7 @@ superfamily: "Neritoidea"
 family: "Neritidae"
 subfamily: "Velatinae"
 genus: "Velates"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

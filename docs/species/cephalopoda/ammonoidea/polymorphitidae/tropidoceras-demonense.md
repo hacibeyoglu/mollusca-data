@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Eoderocerataceae"
 family: "Polymorphitidae"
 genus: "Tropidoceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

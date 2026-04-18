@@ -7,7 +7,7 @@ order: "Fordillida"
 superfamily: "Fordilloidea"
 family: "Fordillidae"
 genus: "Pojetaia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

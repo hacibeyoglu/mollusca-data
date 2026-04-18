@@ -9,7 +9,7 @@ superfamily: "Trochoidea"
 family: "Phasianellidae"
 subfamily: "Phasianellinae"
 genus: "Phasianella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

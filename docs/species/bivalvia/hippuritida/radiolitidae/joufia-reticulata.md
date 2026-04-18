@@ -9,7 +9,7 @@ suborder: "Hippuritidina"
 superfamily: "Radiolitoidea"
 family: "Radiolitidae"
 genus: "Joufia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

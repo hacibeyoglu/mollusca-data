@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Vermetoidea"
 family: "Vermetidae"
 genus: "Dendropoma"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

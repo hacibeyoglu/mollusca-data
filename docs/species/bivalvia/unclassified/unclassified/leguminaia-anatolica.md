@@ -9,7 +9,7 @@ family: "Unclassified"
 subfamily: "Gonideinae"
 tribe: "Gonideini"
 genus: "Leguminaia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

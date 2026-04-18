@@ -9,7 +9,7 @@ superfamily: "Veneroidea"
 family: "Veneridae"
 subfamily: "Tapetinae"
 genus: "Venerupis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

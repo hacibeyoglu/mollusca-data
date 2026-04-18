@@ -8,7 +8,7 @@ order: "Neogastropoda"
 superfamily: "Buccinoidea"
 family: "Pisaniidae"
 genus: "Pisania"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

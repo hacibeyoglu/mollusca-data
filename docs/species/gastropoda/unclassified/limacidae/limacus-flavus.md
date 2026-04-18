@@ -9,7 +9,7 @@ superfamily: "Limacoidea"
 family: "Limacidae"
 subfamily: "Limacinae"
 genus: "Limacus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

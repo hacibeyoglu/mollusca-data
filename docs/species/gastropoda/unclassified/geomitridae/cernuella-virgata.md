@@ -9,7 +9,7 @@ family: "Geomitridae"
 subfamily: "Helicellinae"
 tribe: "Cernuellini"
 genus: "Cernuella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

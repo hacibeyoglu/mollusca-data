@@ -10,7 +10,7 @@ superfamily: "Mopalioidea"
 family: "Tonicellidae"
 subfamily: "Tonicellinae"
 genus: "Lepidochitona"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

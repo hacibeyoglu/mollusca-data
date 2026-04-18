@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Truncatelloidea"
 family: "Tornidae"
 genus: "Tornus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

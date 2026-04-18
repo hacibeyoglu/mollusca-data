@@ -9,7 +9,7 @@ superfamily: "Mytiloidea"
 family: "Modiolidae"
 subfamily: "Bathymodiolinae"
 genus: "Bathymodiolus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

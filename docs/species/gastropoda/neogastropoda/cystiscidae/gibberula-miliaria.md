@@ -9,7 +9,7 @@ superfamily: "Volutoidea"
 family: "Cystiscidae"
 subfamily: "Cystiscinae"
 genus: "Gibberula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

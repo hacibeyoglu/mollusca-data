@@ -9,7 +9,7 @@ superfamily: "Chondrinoidea"
 family: "Chondrinidae"
 subfamily: "Chondrininae"
 genus: "Rupestrella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ superfamily: "Chromodoridoidea"
 family: "Chromodorididae"
 subfamily: "Chromodoridinae"
 genus: "Felimida"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

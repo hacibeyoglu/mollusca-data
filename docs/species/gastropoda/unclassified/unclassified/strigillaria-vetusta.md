@@ -9,7 +9,7 @@ family: "Unclassified"
 subfamily: "Clausiliinae"
 tribe: "Baleini"
 genus: "Strigillaria"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Vanikoroidea"
 family: "Eulimidae"
 genus: "Vitreolina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

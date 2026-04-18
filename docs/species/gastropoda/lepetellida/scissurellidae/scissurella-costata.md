@@ -8,7 +8,7 @@ order: "Lepetellida"
 superfamily: "Scissurelloidea"
 family: "Scissurellidae"
 genus: "Scissurella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

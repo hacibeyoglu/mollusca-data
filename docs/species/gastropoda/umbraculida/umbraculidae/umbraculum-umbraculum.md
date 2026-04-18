@@ -8,7 +8,7 @@ order: "Umbraculida"
 superfamily: "Umbraculoidea"
 family: "Umbraculidae"
 genus: "Umbraculum"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Arionoidea"
 family: "Arionidae"
 genus: "Arion"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

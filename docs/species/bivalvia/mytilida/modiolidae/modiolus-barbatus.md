@@ -9,7 +9,7 @@ superfamily: "Mytiloidea"
 family: "Modiolidae"
 subfamily: "Modiolinae"
 genus: "Modiolus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

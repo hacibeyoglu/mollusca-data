@@ -9,7 +9,7 @@ family: "Unclassified"
 subfamily: "Alopiinae"
 tribe: "Cochlodinini"
 genus: "Cochlodina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

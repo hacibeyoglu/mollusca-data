@@ -9,7 +9,7 @@ family: "Unclassified"
 subfamily: "Clausiliinae"
 tribe: "Strumosini"
 genus: "Strumosa"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

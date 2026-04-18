@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Unclassified"
 tribe: "Serrulinini"
 genus: "Pravispira"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

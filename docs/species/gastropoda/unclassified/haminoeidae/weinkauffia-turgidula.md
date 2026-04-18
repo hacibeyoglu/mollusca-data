@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Haminoeoidea"
 family: "Haminoeidae"
 genus: "Weinkauffia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

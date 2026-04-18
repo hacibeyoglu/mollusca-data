@@ -8,7 +8,7 @@ order: "Neogastropoda"
 superfamily: "Conoidea"
 family: "Mangeliidae"
 genus: "Bela"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Philinoidea"
 family: "Alacuppidae"
 genus: "Roxania"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

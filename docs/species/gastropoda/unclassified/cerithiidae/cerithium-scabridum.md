@@ -9,7 +9,7 @@ superfamily: "Cerithioidea"
 family: "Cerithiidae"
 subfamily: "Cerithiinae"
 genus: "Cerithium"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

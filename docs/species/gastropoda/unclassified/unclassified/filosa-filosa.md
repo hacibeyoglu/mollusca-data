@@ -9,7 +9,7 @@ family: "Unclassified"
 subfamily: "Clausiliinae"
 tribe: "Filosini"
 genus: "Filosa"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

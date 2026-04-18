@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Trochomorphoidea"
 family: "Euconulidae"
 genus: "Euconulus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

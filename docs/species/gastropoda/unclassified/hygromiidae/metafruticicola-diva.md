@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Hygromiidae"
 subfamily: "Metafruticicolinae"
 genus: "Metafruticicola"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

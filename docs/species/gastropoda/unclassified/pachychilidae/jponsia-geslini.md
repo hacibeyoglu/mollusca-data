@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Cerithioidea"
 family: "Pachychilidae"
 genus: "Jponsia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

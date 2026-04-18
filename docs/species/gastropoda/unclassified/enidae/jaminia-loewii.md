@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Enidae"
 genus: "Jaminia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

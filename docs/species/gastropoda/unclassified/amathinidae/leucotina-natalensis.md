@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Pyramidelloidea"
 family: "Amathinidae"
 genus: "Leucotina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Crassatelloidea"
 family: "Astartidae"
 genus: "Goodallia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

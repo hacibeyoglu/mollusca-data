@@ -10,7 +10,7 @@ family: "Cypraeidae"
 subfamily: "Luriinae"
 tribe: "Luriini"
 genus: "Luria"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

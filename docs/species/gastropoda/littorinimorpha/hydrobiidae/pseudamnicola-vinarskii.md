@@ -9,7 +9,7 @@ superfamily: "Truncatelloidea"
 family: "Hydrobiidae"
 subfamily: "Pseudamnicolinae"
 genus: "Pseudamnicola"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ superfamily: "Muricoidea"
 family: "Muricidae"
 subfamily: "Pagodulinae"
 genus: "Trophonopsis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

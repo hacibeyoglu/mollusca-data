@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Cingulopsoidea"
 family: "Cingulopsidae"
 genus: "Eatonina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

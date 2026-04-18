@@ -8,7 +8,7 @@ order: "Venerida"
 superfamily: "Ungulinoidea"
 family: "Ungulinidae"
 genus: "Diplodonta"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

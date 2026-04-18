@@ -8,7 +8,7 @@ order: "Ostreida"
 superfamily: "Pterioidea"
 family: "Isognomonidae"
 genus: "Isognomon"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

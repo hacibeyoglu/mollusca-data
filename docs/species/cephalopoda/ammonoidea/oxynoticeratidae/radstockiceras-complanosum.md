@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Psilocerataceae"
 family: "Oxynoticeratidae"
 genus: "Radstockiceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

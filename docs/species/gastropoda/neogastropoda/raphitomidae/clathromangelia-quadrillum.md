@@ -8,7 +8,7 @@ order: "Neogastropoda"
 superfamily: "Conoidea"
 family: "Raphitomidae"
 genus: "Clathromangelia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

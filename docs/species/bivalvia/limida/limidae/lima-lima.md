@@ -8,7 +8,7 @@ order: "Limida"
 superfamily: "Limoidea"
 family: "Limidae"
 genus: "Lima"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

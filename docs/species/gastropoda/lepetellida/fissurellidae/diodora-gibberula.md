@@ -9,7 +9,7 @@ superfamily: "Fissurelloidea"
 family: "Fissurellidae"
 subfamily: "Fissurellideinae"
 genus: "Diodora"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

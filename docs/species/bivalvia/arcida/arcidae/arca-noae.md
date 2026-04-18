@@ -8,7 +8,7 @@ order: "Arcida"
 superfamily: "Arcoidea"
 family: "Arcidae"
 genus: "Arca"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

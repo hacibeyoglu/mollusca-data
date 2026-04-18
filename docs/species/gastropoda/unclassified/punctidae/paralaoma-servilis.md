@@ -9,7 +9,7 @@ superfamily: "Punctoidea"
 family: "Punctidae"
 subfamily: "Laominae"
 genus: "Paralaoma"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

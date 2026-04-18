@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Notodiaphanidae"
 genus: "Notodiaphana"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

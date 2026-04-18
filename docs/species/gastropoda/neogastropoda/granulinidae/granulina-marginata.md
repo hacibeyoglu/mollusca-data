@@ -8,7 +8,7 @@ order: "Neogastropoda"
 superfamily: "Volutoidea"
 family: "Granulinidae"
 genus: "Granulina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

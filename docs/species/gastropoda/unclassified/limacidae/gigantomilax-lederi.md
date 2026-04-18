@@ -9,7 +9,7 @@ superfamily: "Limacoidea"
 family: "Limacidae"
 subfamily: "Limacinae"
 genus: "Gigantomilax"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

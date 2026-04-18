@@ -9,7 +9,7 @@ suborder: "Aeolidina"
 superfamily: "Aeolidioidea"
 family: "Facelinidae"
 genus: "Cratena"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

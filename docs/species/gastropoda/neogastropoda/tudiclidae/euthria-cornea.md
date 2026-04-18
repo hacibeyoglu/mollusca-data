@@ -8,7 +8,7 @@ order: "Neogastropoda"
 superfamily: "Buccinoidea"
 family: "Tudiclidae"
 genus: "Euthria"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Sagecerataceae"
 family: "Sageceratidae"
 genus: "Sageceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

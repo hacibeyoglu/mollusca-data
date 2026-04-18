@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Ptychitaceae"
 family: "Isculitidae"
 genus: "Isculites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

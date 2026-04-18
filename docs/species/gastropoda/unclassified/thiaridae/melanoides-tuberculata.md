@@ -9,7 +9,7 @@ superfamily: "Cerithioidea"
 family: "Thiaridae"
 subfamily: "Thiarinae"
 genus: "Melanoides"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

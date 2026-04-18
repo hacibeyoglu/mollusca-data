@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Unclassified"
 subfamily: "Carditinae"
 genus: "Cardita"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

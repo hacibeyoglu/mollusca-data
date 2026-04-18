@@ -9,7 +9,7 @@ superfamily: "Veneroidea"
 family: "Veneridae"
 subfamily: "Callocardiinae"
 genus: "Pitar"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

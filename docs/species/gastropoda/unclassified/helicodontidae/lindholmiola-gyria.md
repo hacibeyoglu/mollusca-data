@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Helicodontidae"
 subfamily: "Lindholmiolinae"
 genus: "Lindholmiola"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ superfamily: "Tellinoidea"
 family: "Tellinidae"
 subfamily: "Tellininae"
 genus: "Peronaea"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

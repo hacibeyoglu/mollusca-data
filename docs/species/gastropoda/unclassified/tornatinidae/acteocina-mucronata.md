@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Bulloidea"
 family: "Tornatinidae"
 genus: "Acteocina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

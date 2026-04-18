@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Eoderocerataceae"
 family: "Eoderoceratidae"
 genus: "Phricodoceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

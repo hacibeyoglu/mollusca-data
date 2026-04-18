@@ -8,7 +8,7 @@ order: "Venerida"
 superfamily: "Chamoidea"
 family: "Chamidae"
 genus: "Pseudochama"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

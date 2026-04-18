@@ -9,7 +9,7 @@ superfamily: "Muricoidea"
 family: "Muricidae"
 subfamily: "Ergalataxinae"
 genus: "Ergalatax"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ family: "Unclassified"
 subfamily: "Clausiliinae"
 tribe: "Mentissoideini"
 genus: "Euxinastra"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

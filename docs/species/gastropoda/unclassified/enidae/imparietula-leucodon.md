@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Enidae"
 genus: "Imparietula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Crassatelloidea"
 family: "Carditidae"
 genus: "Cardites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

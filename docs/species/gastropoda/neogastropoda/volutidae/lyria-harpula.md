@@ -10,7 +10,7 @@ family: "Volutidae"
 subfamily: "Volutinae"
 tribe: "Lyriini"
 genus: "Lyria"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

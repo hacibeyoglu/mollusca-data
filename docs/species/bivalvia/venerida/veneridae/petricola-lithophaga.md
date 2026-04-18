@@ -9,7 +9,7 @@ superfamily: "Veneroidea"
 family: "Veneridae"
 subfamily: "Petricolinae"
 genus: "Petricola"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

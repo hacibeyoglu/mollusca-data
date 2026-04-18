@@ -9,7 +9,7 @@ superfamily: "Truncatelloidea"
 family: "Hydrobiidae"
 subfamily: "Hydrobiinae"
 genus: "Ecrobia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

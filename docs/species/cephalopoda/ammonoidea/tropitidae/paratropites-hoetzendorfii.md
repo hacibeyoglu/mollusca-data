@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Tropitaceae"
 family: "Tropitidae"
 genus: "Paratropites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

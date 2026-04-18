@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Myidae"
 subfamily: "Myinae"
 genus: "Mya"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

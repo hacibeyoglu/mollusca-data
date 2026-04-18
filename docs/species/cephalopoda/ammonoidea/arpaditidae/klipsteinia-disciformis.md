@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Trachycerataceae"
 family: "Arpaditidae"
 genus: "Klipsteinia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

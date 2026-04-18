@@ -9,7 +9,7 @@ superfamily: "Trochoidea"
 family: "Turbinidae"
 subfamily: "Turbininae"
 genus: "Bolma"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

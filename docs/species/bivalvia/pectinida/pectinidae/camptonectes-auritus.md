@@ -9,7 +9,7 @@ superfamily: "Pectinoidea"
 family: "Pectinidae"
 subfamily: "Camptonectinae"
 genus: "Camptonectes"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

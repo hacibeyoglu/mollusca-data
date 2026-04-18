@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Bulloidea"
 family: "Bullidae"
 genus: "Bulla"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

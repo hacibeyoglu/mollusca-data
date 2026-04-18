@@ -9,7 +9,7 @@ superfamily: "Gastrodontoidea"
 family: "Oxychilidae"
 subfamily: "Oxychilinae"
 genus: "Oxychilus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

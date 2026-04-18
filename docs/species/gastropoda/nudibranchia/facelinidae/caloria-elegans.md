@@ -9,7 +9,7 @@ suborder: "Aeolidina"
 superfamily: "Aeolidioidea"
 family: "Facelinidae"
 genus: "Caloria"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

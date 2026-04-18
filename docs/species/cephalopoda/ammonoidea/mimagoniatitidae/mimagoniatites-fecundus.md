@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Mimagoniatitaceae"
 family: "Mimagoniatitidae"
 genus: "Mimagoniatites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

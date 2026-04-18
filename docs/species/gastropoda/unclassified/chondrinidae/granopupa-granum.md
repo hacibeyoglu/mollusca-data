@@ -9,7 +9,7 @@ superfamily: "Chondrinoidea"
 family: "Chondrinidae"
 subfamily: "Granariinae"
 genus: "Granopupa"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

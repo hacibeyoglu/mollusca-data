@@ -9,7 +9,7 @@ superfamily: "Ostreoidea"
 family: "Ostreidae"
 subfamily: "Ostreinae"
 genus: "Ostrea"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Psilocerataceae"
 family: "Arietitidae"
 genus: "Coroniceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

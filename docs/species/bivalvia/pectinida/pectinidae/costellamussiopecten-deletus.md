@@ -8,7 +8,7 @@ order: "Pectinida"
 superfamily: "Pectinoidea"
 family: "Pectinidae"
 genus: "Costellamussiopecten"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

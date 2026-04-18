@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Achatinoidea"
 family: "Ferussaciidae"
 genus: "Cecilioides"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

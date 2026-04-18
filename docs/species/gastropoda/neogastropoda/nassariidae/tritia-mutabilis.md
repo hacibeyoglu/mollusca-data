@@ -9,7 +9,7 @@ superfamily: "Buccinoidea"
 family: "Nassariidae"
 subfamily: "Nassariinae"
 genus: "Tritia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

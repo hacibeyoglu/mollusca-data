@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Sphincterochilidae"
 subfamily: "Sphincterochilinae"
 genus: "Sphincterochila"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

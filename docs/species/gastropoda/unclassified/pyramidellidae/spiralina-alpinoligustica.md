@@ -9,7 +9,7 @@ superfamily: "Pyramidelloidea"
 family: "Pyramidellidae"
 subfamily: "Odostomiinae"
 genus: "Spiralina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

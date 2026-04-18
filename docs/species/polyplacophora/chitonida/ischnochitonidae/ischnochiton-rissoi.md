@@ -9,7 +9,7 @@ suborder: "Chitonina"
 superfamily: "Chitonoidea"
 family: "Ischnochitonidae"
 genus: "Ischnochiton"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

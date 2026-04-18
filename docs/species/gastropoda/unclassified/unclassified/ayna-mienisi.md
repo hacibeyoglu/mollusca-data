@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Unclassified"
 tribe: "Chondrulini"
 genus: "Ayna"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Rissooidea"
 family: "Rissoidae"
 genus: "Setia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Neogastropoda"
 superfamily: "Buccinoidea"
 family: "Columbellidae"
 genus: "Amphissa"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

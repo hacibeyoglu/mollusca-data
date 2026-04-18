@@ -9,7 +9,7 @@ superfamily: "Succineoidea"
 family: "Succineidae"
 subfamily: "Oxylomatinae"
 genus: "Oxyloma"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

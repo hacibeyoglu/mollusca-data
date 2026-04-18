@@ -9,7 +9,7 @@ superfamily: "Neritoidea"
 family: "Neritidae"
 subfamily: "Neritininae"
 genus: "Vitta"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

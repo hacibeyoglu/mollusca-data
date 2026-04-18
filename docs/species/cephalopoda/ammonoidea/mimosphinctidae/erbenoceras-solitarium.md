@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Mimosphinctaceae"
 family: "Mimosphinctidae"
 genus: "Erbenoceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

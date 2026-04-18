@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Gastrodontoidea"
 family: "Pristilomatidae"
 genus: "Vitrea"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ superfamily: "Trochoidea"
 family: "Phasianellidae"
 subfamily: "Tricoliinae"
 genus: "Tricolia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

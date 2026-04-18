@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Tonnoidea"
 family: "Charoniidae"
 genus: "Charonia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

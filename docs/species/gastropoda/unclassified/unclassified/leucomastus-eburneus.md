@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Unclassified"
 tribe: "Chondrulini"
 genus: "Leucomastus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

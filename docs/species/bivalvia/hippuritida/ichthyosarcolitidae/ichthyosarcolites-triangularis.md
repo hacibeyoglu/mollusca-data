@@ -9,7 +9,7 @@ suborder: "Hippuritidina"
 superfamily: "Caprinoidea"
 family: "Ichthyosarcolitidae"
 genus: "Ichthyosarcolites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

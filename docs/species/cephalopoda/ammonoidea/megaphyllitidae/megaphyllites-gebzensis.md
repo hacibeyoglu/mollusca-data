@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Megaphyllitaceae"
 family: "Megaphyllitidae"
 genus: "Megaphyllites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

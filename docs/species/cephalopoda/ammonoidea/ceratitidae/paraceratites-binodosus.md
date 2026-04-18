@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Ceratitaceae"
 family: "Ceratitidae"
 genus: "Paraceratites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

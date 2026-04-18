@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Tropitoidea"
 family: "Celtitidae"
 genus: "Kasimlarceltites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

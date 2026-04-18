@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Velutinoidea"
 family: "Triviidae"
 genus: "Trivia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

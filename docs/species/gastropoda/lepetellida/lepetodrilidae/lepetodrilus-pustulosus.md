@@ -8,7 +8,7 @@ order: "Lepetellida"
 superfamily: "Lepetodriloidea"
 family: "Lepetodrilidae"
 genus: "Lepetodrilus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

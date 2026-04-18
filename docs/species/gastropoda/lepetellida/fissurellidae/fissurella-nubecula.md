@@ -9,7 +9,7 @@ superfamily: "Fissurelloidea"
 family: "Fissurellidae"
 subfamily: "Fissurellinae"
 genus: "Fissurella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

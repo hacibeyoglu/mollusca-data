@@ -9,7 +9,7 @@ family: "Geomitridae"
 subfamily: "Helicellinae"
 tribe: "Trochoideini"
 genus: "Trochoidea"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Unclassified"
 tribe: "Chondrulini"
 genus: "Georginapaeus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

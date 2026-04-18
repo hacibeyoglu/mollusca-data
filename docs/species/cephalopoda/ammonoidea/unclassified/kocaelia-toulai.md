@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Ceratitaceae"
 family: "Unclassified"
 genus: "Kocaelia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

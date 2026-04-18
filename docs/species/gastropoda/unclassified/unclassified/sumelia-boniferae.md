@@ -9,7 +9,7 @@ family: "Unclassified"
 subfamily: "Clausiliinae"
 tribe: "Strigileuxinini"
 genus: "Sumelia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

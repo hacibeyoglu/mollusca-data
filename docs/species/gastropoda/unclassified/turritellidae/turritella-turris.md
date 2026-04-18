@@ -9,7 +9,7 @@ superfamily: "Cerithioidea"
 family: "Turritellidae"
 subfamily: "Turritellinae"
 genus: "Turritella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

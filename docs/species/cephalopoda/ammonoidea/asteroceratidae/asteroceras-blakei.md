@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Psilocerataceae"
 family: "Asteroceratidae"
 genus: "Asteroceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

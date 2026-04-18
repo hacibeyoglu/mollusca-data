@@ -9,7 +9,7 @@ superfamily: "Pyramidelloidea"
 family: "Pyramidellidae"
 subfamily: "Odostomiinae"
 genus: "Brachystomia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

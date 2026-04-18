@@ -7,7 +7,7 @@ subclass: "Coleoidea"
 order: "Unclassified"
 family: "Megaleledonidae"
 genus: "Pareledone"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

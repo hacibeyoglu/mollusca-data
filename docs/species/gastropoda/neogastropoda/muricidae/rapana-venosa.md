@@ -9,7 +9,7 @@ superfamily: "Muricoidea"
 family: "Muricidae"
 subfamily: "Rapaninae"
 genus: "Rapana"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

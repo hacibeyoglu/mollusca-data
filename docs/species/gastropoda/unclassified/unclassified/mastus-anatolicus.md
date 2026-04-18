@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Unclassified"
 tribe: "Chondrulini"
 genus: "Mastus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

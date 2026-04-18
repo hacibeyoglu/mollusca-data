@@ -9,7 +9,7 @@ superfamily: "Trochoidea"
 family: "Calliostomatidae"
 subfamily: "Calliostomatinae"
 genus: "Calliostoma"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

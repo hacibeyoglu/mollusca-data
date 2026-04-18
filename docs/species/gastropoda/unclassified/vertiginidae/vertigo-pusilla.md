@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Vertiginidae"
 genus: "Vertigo"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

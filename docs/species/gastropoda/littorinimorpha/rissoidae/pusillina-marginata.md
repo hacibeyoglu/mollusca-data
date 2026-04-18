@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Rissooidea"
 family: "Rissoidae"
 genus: "Pusillina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ superfamily: "Trochoidea"
 family: "Trochidae"
 subfamily: "Cantharidinae"
 genus: "Phorcus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

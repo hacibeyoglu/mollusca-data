@@ -8,7 +8,7 @@ order: "Lepetellida"
 superfamily: "Scissurelloidea"
 family: "Anatomidae"
 genus: "Anatoma"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

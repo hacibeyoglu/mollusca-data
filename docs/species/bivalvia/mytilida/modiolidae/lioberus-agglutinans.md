@@ -9,7 +9,7 @@ superfamily: "Mytiloidea"
 family: "Modiolidae"
 subfamily: "Limnoperninae"
 genus: "Lioberus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

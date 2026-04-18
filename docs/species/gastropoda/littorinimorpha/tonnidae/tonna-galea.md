@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Tonnoidea"
 family: "Tonnidae"
 genus: "Tonna"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

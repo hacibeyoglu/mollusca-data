@@ -7,7 +7,7 @@ subclass: "Coleoidea"
 order: "Myopsida"
 family: "Loliginidae"
 genus: "Sepioteuthis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

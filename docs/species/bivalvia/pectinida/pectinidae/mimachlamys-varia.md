@@ -10,7 +10,7 @@ family: "Pectinidae"
 subfamily: "Pedinae"
 tribe: "Mimachlamydini"
 genus: "Mimachlamys"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

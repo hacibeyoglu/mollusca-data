@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Pleurodiscidae"
 genus: "Pleurodiscus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

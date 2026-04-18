@@ -9,7 +9,7 @@ family: "Geomitridae"
 subfamily: "Helicellinae"
 tribe: "Helicellini"
 genus: "Candidula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

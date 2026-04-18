@@ -9,7 +9,7 @@ superfamily: "Pyramidelloidea"
 family: "Pyramidellidae"
 subfamily: "Odostomiinae"
 genus: "Megastomia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

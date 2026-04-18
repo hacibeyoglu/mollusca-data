@@ -9,7 +9,7 @@ suborder: "Sepiina"
 superfamily: "Sepioidea"
 family: "Sepiidae"
 genus: "Sepia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

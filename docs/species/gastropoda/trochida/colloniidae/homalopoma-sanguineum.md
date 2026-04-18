@@ -9,7 +9,7 @@ superfamily: "Trochoidea"
 family: "Colloniidae"
 subfamily: "Colloniinae"
 genus: "Homalopoma"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

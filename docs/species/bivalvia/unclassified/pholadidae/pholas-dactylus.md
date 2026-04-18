@@ -9,7 +9,7 @@ superfamily: "Pholadoidea"
 family: "Pholadidae"
 subfamily: "Pholadinae"
 genus: "Pholas"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ family: "Unclassified"
 subfamily: "Alopiinae"
 tribe: "Medorini"
 genus: "Albinaria"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

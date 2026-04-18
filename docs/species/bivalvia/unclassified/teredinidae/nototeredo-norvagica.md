@@ -9,7 +9,7 @@ superfamily: "Pholadoidea"
 family: "Teredinidae"
 subfamily: "Bankiinae"
 genus: "Nototeredo"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

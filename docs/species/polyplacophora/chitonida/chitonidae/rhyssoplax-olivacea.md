@@ -10,7 +10,7 @@ superfamily: "Chitonoidea"
 family: "Chitonidae"
 subfamily: "Chitoninae"
 genus: "Rhyssoplax"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ superfamily: "Mitroidea"
 family: "Mitridae"
 subfamily: "Mitrinae"
 genus: "Episcomitra"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

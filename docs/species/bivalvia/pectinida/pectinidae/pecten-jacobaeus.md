@@ -10,7 +10,7 @@ family: "Pectinidae"
 subfamily: "Pectininae"
 tribe: "Pectinini"
 genus: "Pecten"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

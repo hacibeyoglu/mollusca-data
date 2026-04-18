@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Enidae"
 genus: "Turanena"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

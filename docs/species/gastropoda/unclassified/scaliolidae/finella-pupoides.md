@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Cerithioidea"
 family: "Scaliolidae"
 genus: "Finella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

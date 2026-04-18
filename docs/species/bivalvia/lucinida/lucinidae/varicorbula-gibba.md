@@ -8,7 +8,7 @@ order: "Lucinida"
 superfamily: "Lucinoidea"
 family: "Lucinidae"
 genus: "Varicorbula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

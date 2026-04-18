@@ -8,7 +8,7 @@ order: "Ostreida"
 superfamily: "Pterioidea"
 family: "Margaritidae"
 genus: "Pinctada"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

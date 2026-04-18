@@ -9,7 +9,7 @@ superfamily: "Volutoidea"
 family: "Volutidae"
 subfamily: "Athletinae"
 genus: "Athleta"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Zonitoidea"
 family: "Zonitidae"
 genus: "Paraegopis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

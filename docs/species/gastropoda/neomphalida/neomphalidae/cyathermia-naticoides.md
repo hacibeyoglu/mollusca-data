@@ -8,7 +8,7 @@ order: "Neomphalida"
 superfamily: "Neomphaloidea"
 family: "Neomphalidae"
 genus: "Cyathermia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

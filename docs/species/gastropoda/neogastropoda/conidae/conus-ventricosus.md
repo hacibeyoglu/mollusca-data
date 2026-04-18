@@ -8,7 +8,7 @@ order: "Neogastropoda"
 superfamily: "Conoidea"
 family: "Conidae"
 genus: "Conus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Phyllocerataceae"
 family: "Juraphyllitidae"
 genus: "Juraphyllites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

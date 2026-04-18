@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Zonitoidea"
 family: "Zonitidae"
 genus: "Turcozonites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

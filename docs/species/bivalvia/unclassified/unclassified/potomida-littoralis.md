@@ -9,7 +9,7 @@ family: "Unclassified"
 subfamily: "Gonideinae"
 tribe: "Lamprotulini"
 genus: "Potomida"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

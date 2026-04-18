@@ -9,7 +9,7 @@ superfamily: "Muricoidea"
 family: "Muricidae"
 subfamily: "Ocenebrinae"
 genus: "Nucella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Venerida"
 superfamily: "Glossoidea"
 family: "Kelliellidae"
 genus: "Kelliella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

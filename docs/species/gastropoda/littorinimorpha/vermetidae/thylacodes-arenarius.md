@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Vermetoidea"
 family: "Vermetidae"
 genus: "Thylacodes"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

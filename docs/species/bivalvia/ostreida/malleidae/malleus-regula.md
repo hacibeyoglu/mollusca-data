@@ -8,7 +8,7 @@ order: "Ostreida"
 superfamily: "Pterioidea"
 family: "Malleidae"
 genus: "Malleus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

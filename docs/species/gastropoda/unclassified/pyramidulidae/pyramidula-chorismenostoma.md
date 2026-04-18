@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Pyramidulidae"
 genus: "Pyramidula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

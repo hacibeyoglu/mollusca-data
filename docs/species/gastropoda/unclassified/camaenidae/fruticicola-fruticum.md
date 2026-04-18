@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Camaenidae"
 genus: "Fruticicola"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

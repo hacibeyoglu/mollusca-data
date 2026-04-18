@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Ellobiidae"
 genus: "Myosotella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

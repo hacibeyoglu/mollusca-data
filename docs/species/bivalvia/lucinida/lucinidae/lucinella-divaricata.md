@@ -9,7 +9,7 @@ superfamily: "Lucinoidea"
 family: "Lucinidae"
 subfamily: "Lucininae"
 genus: "Lucinella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

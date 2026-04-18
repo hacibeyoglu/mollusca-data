@@ -9,7 +9,7 @@ superfamily: "Trochoidea"
 family: "Trochidae"
 subfamily: "Trochinae"
 genus: "Clanculus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

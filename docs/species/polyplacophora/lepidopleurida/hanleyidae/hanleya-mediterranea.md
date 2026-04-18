@@ -8,7 +8,7 @@ order: "Lepidopleurida"
 suborder: "Lepidopleurina"
 family: "Hanleyidae"
 genus: "Hanleya"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

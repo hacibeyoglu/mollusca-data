@@ -8,7 +8,7 @@ order: "Venerida"
 superfamily: "Cyrenoidea"
 family: "Cyrenidae"
 genus: "Corbicula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

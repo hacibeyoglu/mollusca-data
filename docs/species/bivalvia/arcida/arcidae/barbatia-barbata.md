@@ -8,7 +8,7 @@ order: "Arcida"
 superfamily: "Arcoidea"
 family: "Arcidae"
 genus: "Barbatia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

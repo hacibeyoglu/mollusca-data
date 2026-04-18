@@ -9,7 +9,7 @@ superfamily: "Naticoidea"
 family: "Naticidae"
 subfamily: "Naticinae"
 genus: "Naticarius"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

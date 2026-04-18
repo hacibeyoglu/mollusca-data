@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Stromboidea"
 family: "Rimellidae"
 genus: "Rimella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

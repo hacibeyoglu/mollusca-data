@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Omalogyroidea"
 family: "Omalogyridae"
 genus: "Ammonicera"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

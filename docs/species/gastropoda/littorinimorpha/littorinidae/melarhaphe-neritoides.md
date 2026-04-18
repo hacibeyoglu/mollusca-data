@@ -9,7 +9,7 @@ superfamily: "Littorinoidea"
 family: "Littorinidae"
 subfamily: "Littorininae"
 genus: "Melarhaphe"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

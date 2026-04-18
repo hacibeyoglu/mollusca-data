@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Littorinoidea"
 family: "Pomatiidae"
 genus: "Pomatias"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

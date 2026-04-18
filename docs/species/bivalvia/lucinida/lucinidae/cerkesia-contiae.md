@@ -9,7 +9,7 @@ superfamily: "Lucinoidea"
 family: "Lucinidae"
 subfamily: "Fimbriinae"
 genus: "Cerkesia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

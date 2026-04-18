@@ -9,7 +9,7 @@ superfamily: "Muricoidea"
 family: "Muricidae"
 subfamily: "Ocenebrinae"
 genus: "Ocenebra"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

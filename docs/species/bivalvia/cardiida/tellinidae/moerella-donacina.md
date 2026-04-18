@@ -9,7 +9,7 @@ superfamily: "Tellinoidea"
 family: "Tellinidae"
 subfamily: "Moerellinae"
 genus: "Moerella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

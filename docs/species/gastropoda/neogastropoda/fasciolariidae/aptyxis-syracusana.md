@@ -9,7 +9,7 @@ superfamily: "Buccinoidea"
 family: "Fasciolariidae"
 subfamily: "Fusininae"
 genus: "Aptyxis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

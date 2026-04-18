@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Oxynooidea"
 family: "Oxynoidae"
 genus: "Oxynoe"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

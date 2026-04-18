@@ -9,7 +9,7 @@ superfamily: "Veneroidea"
 family: "Veneridae"
 subfamily: "Gouldiinae"
 genus: "Gouldia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

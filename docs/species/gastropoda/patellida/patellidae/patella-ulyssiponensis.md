@@ -8,7 +8,7 @@ order: "Patellida"
 superfamily: "Patelloidea"
 family: "Patellidae"
 genus: "Patella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Triphoroidea"
 family: "Cerithiopsidae"
 genus: "Cerithiopsis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ suborder: "Euthecosomata"
 superfamily: "Cavolinioidea"
 family: "Cliidae"
 genus: "Clio"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Ceratitaceae"
 family: "Unclassified"
 genus: "Aghdarbandites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

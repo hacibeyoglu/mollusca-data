@@ -8,7 +8,7 @@ order: "Neogastropoda"
 superfamily: "Buccinoidea"
 family: "Chauvetiidae"
 genus: "Chauvetia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

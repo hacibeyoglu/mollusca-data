@@ -9,7 +9,7 @@ superfamily: "Velutinoidea"
 family: "Velutinidae"
 subfamily: "Lamellariinae"
 genus: "Lamellaria"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

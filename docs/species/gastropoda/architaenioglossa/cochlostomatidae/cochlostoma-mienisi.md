@@ -8,7 +8,7 @@ order: "Architaenioglossa"
 superfamily: "Cyclophoroidea"
 family: "Cochlostomatidae"
 genus: "Cochlostoma"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

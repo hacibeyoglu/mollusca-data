@@ -9,7 +9,7 @@ superfamily: "Cerithioidea"
 family: "Cerithiidae"
 subfamily: "Cerithiinae"
 genus: "Ptychocerithium"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

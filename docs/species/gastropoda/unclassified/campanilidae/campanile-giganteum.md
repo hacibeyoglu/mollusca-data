@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Campaniloidea"
 family: "Campanilidae"
 genus: "Campanile"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

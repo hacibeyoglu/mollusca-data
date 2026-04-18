@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Ussuritaceae"
 family: "Palaeophyllitidae"
 genus: "Leiophyllites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

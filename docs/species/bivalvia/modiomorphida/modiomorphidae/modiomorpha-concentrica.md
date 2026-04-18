@@ -8,7 +8,7 @@ order: "Modiomorphida"
 superfamily: "Modiomorphoidea"
 family: "Modiomorphidae"
 genus: "Modiomorpha"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

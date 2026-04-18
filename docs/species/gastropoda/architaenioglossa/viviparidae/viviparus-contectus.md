@@ -9,7 +9,7 @@ superfamily: "Viviparoidea"
 family: "Viviparidae"
 subfamily: "Viviparinae"
 genus: "Viviparus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

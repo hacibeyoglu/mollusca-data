@@ -9,7 +9,7 @@ superfamily: "Murchisonelloidea"
 family: "Murchisonellidae"
 subfamily: "Murchisonellinae"
 genus: "Murchisonella"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Trochida"
 superfamily: "Trochoidea"
 family: "Angariidae"
 genus: "Angaria"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

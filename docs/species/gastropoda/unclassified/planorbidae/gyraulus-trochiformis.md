@@ -9,7 +9,7 @@ family: "Planorbidae"
 subfamily: "Planorbinae"
 tribe: "Planorbini"
 genus: "Gyraulus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Rissooidea"
 family: "Rissoinidae"
 genus: "Rissoina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

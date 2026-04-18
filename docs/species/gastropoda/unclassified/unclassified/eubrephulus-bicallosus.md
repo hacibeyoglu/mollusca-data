@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Unclassified"
 tribe: "Chondrulini"
 genus: "Eubrephulus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

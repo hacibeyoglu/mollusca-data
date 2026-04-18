@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Unclassified"
 subfamily: "Buliminusinae"
 genus: "Buliminus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

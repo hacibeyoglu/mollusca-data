@@ -9,7 +9,7 @@ superfamily: "Triphoroidea"
 family: "Triphoridae"
 subfamily: "Triphorinae"
 genus: "Monophorus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Eoderocerataceae"
 family: "Unclassified"
 genus: "Pseuduptonia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

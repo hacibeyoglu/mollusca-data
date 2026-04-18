@@ -9,7 +9,7 @@ superfamily: "Pyramidelloidea"
 family: "Pyramidellidae"
 subfamily: "Turbonillinae"
 genus: "Pyrgostylus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

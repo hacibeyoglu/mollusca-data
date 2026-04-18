@@ -10,7 +10,7 @@ family: "Cardiidae"
 subfamily: "Lymnocardiinae"
 tribe: "Acanthocardiini"
 genus: "Acanthocardia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

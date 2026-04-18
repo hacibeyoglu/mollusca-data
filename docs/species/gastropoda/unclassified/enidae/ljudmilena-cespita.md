@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Enidae"
 genus: "Ljudmilena"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

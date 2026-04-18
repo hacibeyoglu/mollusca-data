@@ -9,7 +9,7 @@ superfamily: "Lucinoidea"
 family: "Lucinidae"
 subfamily: "Lucininae"
 genus: "Loripes"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

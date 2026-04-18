@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Plakobranchoidea"
 family: "Plakobranchidae"
 genus: "Thuridilla"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

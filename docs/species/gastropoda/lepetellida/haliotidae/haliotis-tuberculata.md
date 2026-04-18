@@ -8,7 +8,7 @@ order: "Lepetellida"
 superfamily: "Haliotoidea"
 family: "Haliotidae"
 genus: "Haliotis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

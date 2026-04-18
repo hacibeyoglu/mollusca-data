@@ -9,7 +9,7 @@ superfamily: "Limacoidea"
 family: "Agriolimacidae"
 subfamily: "Agriolimacinae"
 genus: "Deroceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ superfamily: "Achatinoidea"
 family: "Achatinidae"
 subfamily: "Stenogyrinae"
 genus: "Plicaxis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

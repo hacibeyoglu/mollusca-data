@@ -8,7 +8,7 @@ order: "Unclassified"
 family: "Unclassified"
 tribe: "Serrulinini"
 genus: "Pamphylica"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

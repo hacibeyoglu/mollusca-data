@@ -9,7 +9,7 @@ family: "Geomitridae"
 subfamily: "Helicellinae"
 tribe: "Helicellini"
 genus: "Xerotricha"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

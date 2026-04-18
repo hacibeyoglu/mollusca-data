@@ -10,7 +10,7 @@ family: "Cardiidae"
 subfamily: "Lymnocardiinae"
 tribe: "Cerastodermatini"
 genus: "Cerastoderma"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

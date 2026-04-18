@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Acteonoidea"
 family: "Acteonidae"
 genus: "Acteon"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Neogastropoda"
 superfamily: "Conoidea"
 family: "Clathurellidae"
 genus: "Lienardia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

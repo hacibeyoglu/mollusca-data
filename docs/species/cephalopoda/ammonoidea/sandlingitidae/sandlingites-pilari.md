@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Clydonitaceae"
 family: "Sandlingitidae"
 genus: "Sandlingites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Ptychitaceae"
 family: "Ptychitidae"
 genus: "Flexoptychites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ family: "Helicidae"
 subfamily: "Helicinae"
 tribe: "Helicini"
 genus: "Caucasotachea"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

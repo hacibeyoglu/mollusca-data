@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Mimosphinctaceae"
 family: "Teicherticeratidae"
 genus: "Teicherticeras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

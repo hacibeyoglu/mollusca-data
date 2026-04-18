@@ -8,7 +8,7 @@ order: "Littorinimorpha"
 superfamily: "Rissooidea"
 family: "Barleeiidae"
 genus: "Barleeia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

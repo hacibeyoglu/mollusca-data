@@ -9,7 +9,7 @@ superfamily: "Cerithioidea"
 family: "Turritellidae"
 subfamily: "Turritellinae"
 genus: "Haustator"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

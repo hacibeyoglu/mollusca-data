@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Lytocerataceae"
 family: "Lytoceratidae"
 genus: "Lytoceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

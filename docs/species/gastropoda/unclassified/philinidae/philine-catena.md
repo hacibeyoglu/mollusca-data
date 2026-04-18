@@ -9,7 +9,7 @@ superfamily: "Philinoidea"
 family: "Philinidae"
 subfamily: "Philininae"
 genus: "Philine"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

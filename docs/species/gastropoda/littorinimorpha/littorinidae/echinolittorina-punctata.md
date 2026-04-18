@@ -9,7 +9,7 @@ superfamily: "Littorinoidea"
 family: "Littorinidae"
 subfamily: "Littorininae"
 genus: "Echinolittorina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

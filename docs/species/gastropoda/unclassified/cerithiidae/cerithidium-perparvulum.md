@@ -9,7 +9,7 @@ superfamily: "Cerithioidea"
 family: "Cerithiidae"
 subfamily: "Bittiinae"
 genus: "Cerithidium"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

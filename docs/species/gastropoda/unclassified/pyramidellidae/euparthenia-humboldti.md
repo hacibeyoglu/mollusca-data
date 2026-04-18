@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Pyramidelloidea"
 family: "Pyramidellidae"
 genus: "Euparthenia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

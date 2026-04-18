@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Orculidae"
 genus: "Schileykula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

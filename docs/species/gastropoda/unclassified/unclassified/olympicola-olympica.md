@@ -9,7 +9,7 @@ family: "Unclassified"
 subfamily: "Clausiliinae"
 tribe: "Olympicolini"
 genus: "Olympicola"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

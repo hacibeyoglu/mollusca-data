@@ -9,7 +9,7 @@ superfamily: "Muricoidea"
 family: "Muricidae"
 subfamily: "Rapaninae"
 genus: "Stramonita"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

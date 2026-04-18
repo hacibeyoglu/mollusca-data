@@ -8,7 +8,7 @@ order: "Ostreida"
 superfamily: "Pinnoidea"
 family: "Pinnidae"
 genus: "Pinna"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

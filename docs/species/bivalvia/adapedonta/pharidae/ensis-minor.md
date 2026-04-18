@@ -9,7 +9,7 @@ superfamily: "Solenoidea"
 family: "Pharidae"
 subfamily: "Cultellinae"
 genus: "Ensis"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

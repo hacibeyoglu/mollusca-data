@@ -9,7 +9,7 @@ family: "Unclassified"
 subfamily: "Clausiliinae"
 tribe: "Mentissoideini"
 genus: "Euxina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

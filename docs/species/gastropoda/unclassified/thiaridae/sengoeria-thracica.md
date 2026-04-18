@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Cerithioidea"
 family: "Thiaridae"
 genus: "Sengoeria"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

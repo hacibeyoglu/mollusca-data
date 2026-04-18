@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Ringiculoidea"
 family: "Ringiculidae"
 genus: "Ringicula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

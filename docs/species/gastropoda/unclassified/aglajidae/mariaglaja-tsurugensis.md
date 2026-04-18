@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Philinoidea"
 family: "Aglajidae"
 genus: "Mariaglaja"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

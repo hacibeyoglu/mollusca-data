@@ -9,7 +9,7 @@ family: "Unclassified"
 subfamily: "Clausiliinae"
 tribe: "Baleini"
 genus: "Mucronaria"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

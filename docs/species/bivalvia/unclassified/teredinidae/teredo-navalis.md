@@ -9,7 +9,7 @@ superfamily: "Pholadoidea"
 family: "Teredinidae"
 subfamily: "Teredininae"
 genus: "Teredo"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

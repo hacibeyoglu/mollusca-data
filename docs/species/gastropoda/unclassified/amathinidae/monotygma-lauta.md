@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Pyramidelloidea"
 family: "Amathinidae"
 genus: "Monotygma"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

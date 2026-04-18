@@ -9,7 +9,7 @@ family: "Unclassified"
 subfamily: "Clausiliinae"
 tribe: "Acrotomini"
 genus: "Sprattia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Ceratitaceae"
 family: "Balatonitidae"
 genus: "Balatonites"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

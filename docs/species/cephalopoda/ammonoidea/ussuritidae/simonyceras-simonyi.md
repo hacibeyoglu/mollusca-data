@@ -7,7 +7,7 @@ order: "Ammonoidea"
 superfamily: "Phyllocerataceae"
 family: "Ussuritidae"
 genus: "Simonyceras"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

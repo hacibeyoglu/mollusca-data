@@ -9,7 +9,7 @@ superfamily: "Truncatelloidea"
 family: "Cochliopidae"
 subfamily: "Semisalsinae"
 genus: "Eupaludestrina"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

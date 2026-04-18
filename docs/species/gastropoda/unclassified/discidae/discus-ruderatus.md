@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Discoidea"
 family: "Discidae"
 genus: "Discus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

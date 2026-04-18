@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Cimoidea"
 family: "Cimidae"
 genus: "Cima"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -9,7 +9,7 @@ superfamily: "Ostreoidea"
 family: "Gryphaeidae"
 subfamily: "Pycnodonteinae"
 genus: "Hyotissa"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

@@ -8,7 +8,7 @@ order: "Unclassified"
 superfamily: "Pyramidelloidea"
 family: "Pyramidellidae"
 genus: "Auristomia"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

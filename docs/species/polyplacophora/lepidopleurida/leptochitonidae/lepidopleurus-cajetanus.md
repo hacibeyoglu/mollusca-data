@@ -8,7 +8,7 @@ order: "Lepidopleurida"
 suborder: "Lepidopleurina"
 family: "Leptochitonidae"
 genus: "Lepidopleurus"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

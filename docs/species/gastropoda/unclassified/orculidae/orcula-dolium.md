@@ -7,7 +7,7 @@ subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Orculidae"
 genus: "Orcula"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

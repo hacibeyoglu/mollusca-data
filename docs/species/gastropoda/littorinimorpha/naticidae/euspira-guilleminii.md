@@ -9,7 +9,7 @@ superfamily: "Naticoidea"
 family: "Naticidae"
 subfamily: "Polinicinae"
 genus: "Euspira"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []

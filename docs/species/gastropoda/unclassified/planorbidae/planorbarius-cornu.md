@@ -9,7 +9,7 @@ family: "Planorbidae"
 subfamily: "Planorbinae"
 tribe: "Coretini"
 genus: "Planorbarius"
-seas:[]
+seas: []
 depth: "TBD"
 status: "Native"
 images: []
