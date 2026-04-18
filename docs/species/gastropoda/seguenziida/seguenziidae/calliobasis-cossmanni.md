@@ -1,0 +1,27 @@
+---
+title: "Calliobasis cossmanni"
+rank: species
+authority: "(Tate, 1894)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Vetigastropoda"
+order: "Seguenziida"
+superfamily: "Seguenzioidea"
+family: "Seguenziidae"
+subfamily: "Seguenziinae"
+tribe: "Fluxinellini"
+genus: "Calliobasis"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/calliobasis-cossmanni.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

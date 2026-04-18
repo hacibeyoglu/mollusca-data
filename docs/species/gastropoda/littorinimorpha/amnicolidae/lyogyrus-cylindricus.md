@@ -1,0 +1,25 @@
+---
+title: "Lyogyrus cylindricus"
+rank: species
+authority: "Youluo, 1978"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Littorinimorpha"
+superfamily: "Truncatelloidea"
+family: "Amnicolidae"
+genus: "Lyogyrus"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/lyogyrus-cylindricus.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

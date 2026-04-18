@@ -1,0 +1,25 @@
+---
+title: "Bythiospeum anglesianum"
+rank: species
+authority: "(Westerlund, 1890)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Littorinimorpha"
+superfamily: "Truncatelloidea"
+family: "Moitessieriidae"
+genus: "Bythiospeum"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/bythiospeum-anglesianum.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

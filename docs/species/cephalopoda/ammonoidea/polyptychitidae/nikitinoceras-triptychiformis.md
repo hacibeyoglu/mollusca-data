@@ -1,0 +1,24 @@
+---
+title: "Nikitinoceras triptychiformis"
+rank: species
+authority: "(Nikitin, 1888)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Cephalopoda"
+order: "Ammonoidea"
+superfamily: "Perisphinctaceae"
+family: "Polyptychitidae"
+genus: "Nikitinoceras"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/nikitinoceras-triptychiformis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

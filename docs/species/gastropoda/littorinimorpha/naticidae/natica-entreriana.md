@@ -1,0 +1,26 @@
+---
+title: "Natica entreriana"
+rank: species
+authority: "Borchert, 1901"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Littorinimorpha"
+superfamily: "Naticoidea"
+family: "Naticidae"
+subfamily: "Naticinae"
+genus: "Natica"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/natica-entreriana.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

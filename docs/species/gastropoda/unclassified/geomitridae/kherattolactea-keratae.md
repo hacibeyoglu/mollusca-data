@@ -1,0 +1,26 @@
+---
+title: "Kherattolactea keratae"
+rank: species
+authority: "(Kobelt, 1892)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Geomitridae"
+subfamily: "Helicellinae"
+tribe: "Helicellini"
+genus: "Kherattolactea"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/kherattolactea-keratae.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

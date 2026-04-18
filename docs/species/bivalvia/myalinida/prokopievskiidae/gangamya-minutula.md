@@ -1,0 +1,26 @@
+---
+title: "Gangamya minutula"
+rank: species
+authority: "Silantiev & Chandra, 2015"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Myalinida"
+superfamily: "Prokopievskioidea"
+family: "Prokopievskiidae"
+subfamily: "Prokopievskiinae"
+genus: "Gangamya"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/gangamya-minutula.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

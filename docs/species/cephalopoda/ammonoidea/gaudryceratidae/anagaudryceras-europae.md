@@ -1,0 +1,24 @@
+---
+title: "Anagaudryceras europae"
+rank: species
+authority: "Wright & Kennedy, 1984"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Cephalopoda"
+order: "Ammonoidea"
+superfamily: "Tetragonitaceae"
+family: "Gaudryceratidae"
+genus: "Anagaudryceras"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/anagaudryceras-europae.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

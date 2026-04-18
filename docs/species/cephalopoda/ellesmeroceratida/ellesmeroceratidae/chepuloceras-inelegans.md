@@ -1,0 +1,23 @@
+---
+title: "Chepuloceras inelegans"
+rank: species
+authority: "Unklesbay & R. S. Young, 1956"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Cephalopoda"
+order: "Ellesmeroceratida"
+family: "Ellesmeroceratidae"
+genus: "Chepuloceras"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/chepuloceras-inelegans.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

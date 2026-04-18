@@ -1,0 +1,25 @@
+---
+title: "Juga douglasi"
+rank: species
+authority: "E. E. Strong, Garner, P. D. Johnson & Whelan, 2022"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Unclassified"
+superfamily: "Cerithioidea"
+family: "Semisulcospiridae"
+genus: "Juga"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/juga-douglasi.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

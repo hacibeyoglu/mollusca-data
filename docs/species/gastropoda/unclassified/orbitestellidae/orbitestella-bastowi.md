@@ -1,0 +1,25 @@
+---
+title: "Orbitestella bastowi"
+rank: species
+authority: "(Gatliff, 1906)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+superfamily: "Orbitestelloidea"
+family: "Orbitestellidae"
+genus: "Orbitestella"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/orbitestella-bastowi.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

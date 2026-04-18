@@ -1,0 +1,26 @@
+---
+title: "Fusinus midwayensis"
+rank: species
+authority: "Kosuge, 1979"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Neogastropoda"
+superfamily: "Buccinoidea"
+family: "Fasciolariidae"
+subfamily: "Fusininae"
+genus: "Fusinus"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/fusinus-midwayensis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

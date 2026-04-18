@@ -1,0 +1,26 @@
+---
+title: "Pyrgomitra syltensis"
+rank: species
+authority: "(Speyer, 1862)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Neogastropoda"
+superfamily: "Volutoidea"
+family: "Volutidae"
+subfamily: "Scaphellinae"
+genus: "Pyrgomitra"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/pyrgomitra-syltensis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

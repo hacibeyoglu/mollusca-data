@@ -1,0 +1,25 @@
+---
+title: "Parachloritis mendax"
+rank: species
+authority: "(E. von Martens, 1864)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Unclassified"
+subfamily: "Hadrinae"
+genus: "Parachloritis"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/parachloritis-mendax.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

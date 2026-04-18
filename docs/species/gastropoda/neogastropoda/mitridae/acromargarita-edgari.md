@@ -1,0 +1,26 @@
+---
+title: "Acromargarita edgari"
+rank: species
+authority: "(Poppe, Tagaro & R. Salisbury, 2009)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Neogastropoda"
+superfamily: "Mitroidea"
+family: "Mitridae"
+subfamily: "Mitrinae"
+genus: "Acromargarita"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/acromargarita-edgari.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

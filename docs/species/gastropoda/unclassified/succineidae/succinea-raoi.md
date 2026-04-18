@@ -1,0 +1,26 @@
+---
+title: "Succinea raoi"
+rank: species
+authority: "N. V. Subba Rao & Mitra, 1976"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+superfamily: "Succineoidea"
+family: "Succineidae"
+subfamily: "Succineinae"
+genus: "Succinea"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/succinea-raoi.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

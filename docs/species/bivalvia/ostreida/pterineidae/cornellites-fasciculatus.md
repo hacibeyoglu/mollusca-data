@@ -1,0 +1,24 @@
+---
+title: "Cornellites fasciculatus"
+rank: species
+authority: "(Goldfuss, 1835)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Ostreida"
+family: "Pterineidae"
+genus: "Cornellites"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/cornellites-fasciculatus.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

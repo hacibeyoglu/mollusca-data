@@ -1,0 +1,24 @@
+---
+title: "Stockumites involutus"
+rank: species
+authority: "(Schindewolf, 1924)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Cephalopoda"
+order: "Ammonoidea"
+superfamily: "Prionocerataceae"
+family: "Prionoceratidae"
+genus: "Unclassified"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/stockumites-involutus.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

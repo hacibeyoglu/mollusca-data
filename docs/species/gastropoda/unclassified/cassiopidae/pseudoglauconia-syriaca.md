@@ -1,0 +1,24 @@
+---
+title: "Pseudoglauconia syriaca"
+rank: species
+authority: "(Frech, 1887)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Unclassified"
+family: "Cassiopidae"
+genus: "Pseudoglauconia"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/pseudoglauconia-syriaca.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

@@ -1,0 +1,24 @@
+---
+title: "Erinoceras ellipticum"
+rank: species
+authority: "Zhao & Zheng, 1977"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Cephalopoda"
+order: "Ammonoidea"
+superfamily: "Pseudohaloritaceae"
+family: "Pseudohaloritidae"
+genus: "Erinoceras"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/erinoceras-ellipticum.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

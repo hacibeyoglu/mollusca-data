@@ -1,0 +1,25 @@
+---
+title: "Anadara thalia"
+rank: species
+authority: "(Olsson, 1932)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Arcida"
+superfamily: "Arcoidea"
+family: "Arcidae"
+genus: "Anadara"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/anadara-thalia.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

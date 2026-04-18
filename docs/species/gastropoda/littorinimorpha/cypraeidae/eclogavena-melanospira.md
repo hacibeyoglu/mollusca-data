@@ -1,0 +1,27 @@
+---
+title: "Eclogavena melanospira"
+rank: species
+authority: "Lorenz, 2025"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Littorinimorpha"
+superfamily: "Cypraeoidea"
+family: "Cypraeidae"
+subfamily: "Erroneinae"
+tribe: "Erroneini"
+genus: "Eclogavena"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/eclogavena-melanospira.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

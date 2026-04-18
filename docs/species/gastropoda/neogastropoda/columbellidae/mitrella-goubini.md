@@ -1,0 +1,25 @@
+---
+title: "Mitrella goubini"
+rank: species
+authority: "(Hervier, 1900)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Neogastropoda"
+superfamily: "Buccinoidea"
+family: "Columbellidae"
+genus: "Mitrella"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/mitrella-goubini.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

@@ -1,0 +1,24 @@
+---
+title: "Bensonella nordsiecki"
+rank: species
+authority: "Jirapatrasilp & Tongkerd, 2024"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Hypselostomatidae"
+genus: "Bensonella"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/bensonella-nordsiecki.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

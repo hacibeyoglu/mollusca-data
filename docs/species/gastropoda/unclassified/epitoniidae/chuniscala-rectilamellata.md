@@ -1,0 +1,25 @@
+---
+title: "Chuniscala rectilamellata"
+rank: species
+authority: "Kilburn, 1985"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Unclassified"
+superfamily: "Epitonioidea"
+family: "Epitoniidae"
+genus: "Chuniscala"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/chuniscala-rectilamellata.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

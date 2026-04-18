@@ -1,0 +1,26 @@
+---
+title: "Uniocardium meneghinii"
+rank: species
+authority: "Capellini, 1880"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Cardiida"
+superfamily: "Cardioidea"
+family: "Cardiidae"
+subfamily: "Lymnocardiinae"
+genus: "Uniocardium"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/uniocardium-meneghinii.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

@@ -1,0 +1,24 @@
+---
+title: "Partula desolata"
+rank: species
+authority: "Bauman & Kerr, 2013"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Partulidae"
+genus: "Partula"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/partula-desolata.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

@@ -1,0 +1,25 @@
+---
+title: "Anthraconaia tchernyshevi"
+rank: species
+authority: "Korejwo, 1954"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Myalinida"
+superfamily: "Prokopievskioidea"
+family: "Naiaditidae"
+genus: "Anthraconaia"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/anthraconaia-tchernyshevi.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

@@ -1,0 +1,25 @@
+---
+title: "Pleurocera guantouensis"
+rank: species
+authority: "W. Yü, 1980"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Unclassified"
+superfamily: "Cerithioidea"
+family: "Pleuroceridae"
+genus: "Pleurocera"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/pleurocera-guantouensis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

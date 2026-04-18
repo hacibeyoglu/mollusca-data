@@ -1,0 +1,26 @@
+---
+title: "Pleiodon attiai"
+rank: species
+authority: "(L. R. Cox, 1955)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Unclassified"
+superfamily: "Etherioidea"
+family: "Iridinidae"
+subfamily: "Iridininae"
+genus: "Pleiodon"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/pleiodon-attiai.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

@@ -1,0 +1,25 @@
+---
+title: "Augustula braueri"
+rank: species
+authority: "(E. von Martens, 1898)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Unclassified"
+subfamily: "Orthogibbinae"
+genus: "Augustula"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/augustula-braueri.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

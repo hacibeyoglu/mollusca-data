@@ -1,0 +1,26 @@
+---
+title: "Caecum biomaglo"
+rank: species
+authority: "Vannozzi, 2023"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Littorinimorpha"
+superfamily: "Truncatelloidea"
+family: "Caecidae"
+subfamily: "Caecinae"
+genus: "Caecum"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/caecum-biomaglo.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

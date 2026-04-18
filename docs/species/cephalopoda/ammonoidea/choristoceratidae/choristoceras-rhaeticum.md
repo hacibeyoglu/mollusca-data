@@ -1,0 +1,24 @@
+---
+title: "Choristoceras rhaeticum"
+rank: species
+authority: "(Gümbel, 1861)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Cephalopoda"
+order: "Ammonoidea"
+superfamily: "Choristocerataceae"
+family: "Choristoceratidae"
+genus: "Choristoceras"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/choristoceras-rhaeticum.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

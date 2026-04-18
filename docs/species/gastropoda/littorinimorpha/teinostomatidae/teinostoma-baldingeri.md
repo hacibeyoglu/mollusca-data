@@ -1,0 +1,25 @@
+---
+title: "Teinostoma baldingeri"
+rank: species
+authority: "Rubio, Fernández-Garcés & Rolán, 2011"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Littorinimorpha"
+superfamily: "Truncatelloidea"
+family: "Teinostomatidae"
+genus: "Teinostoma"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/teinostoma-baldingeri.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

@@ -1,0 +1,27 @@
+---
+title: "Chlamys santarosana"
+rank: species
+authority: "(Böse, 1906)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Pectinida"
+superfamily: "Pectinoidea"
+family: "Pectinidae"
+subfamily: "Pedinae"
+tribe: "Chlamydini"
+genus: "Chlamys"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/chlamys-santarosana.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

@@ -1,0 +1,24 @@
+---
+title: "Coryda monodonta"
+rank: species
+authority: "(I. Lea, 1834)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Cepolidae"
+genus: "Coryda"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/coryda-monodonta.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

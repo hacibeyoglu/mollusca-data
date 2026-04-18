@@ -1,0 +1,25 @@
+---
+title: "Nuculites praevolutus"
+rank: species
+authority: "(Foerste, 1914)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Protobranchia"
+order: "Nuculanida"
+superfamily: "Nuculanoidea"
+family: "Cucullellidae"
+genus: "Nuculites"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/nuculites-praevolutus.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

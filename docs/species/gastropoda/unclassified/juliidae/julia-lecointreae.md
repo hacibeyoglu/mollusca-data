@@ -1,0 +1,26 @@
+---
+title: "Julia lecointreae"
+rank: species
+authority: "(Dollfus & Dautzenberg, 1901)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+superfamily: "Oxynooidea"
+family: "Juliidae"
+subfamily: "Juliinae"
+genus: "Julia"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/julia-lecointreae.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

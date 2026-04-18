@@ -1,0 +1,27 @@
+---
+title: "Patelloida heteromorpha"
+rank: species
+authority: "(W. R. B. Oliver, 1926)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Patellogastropoda"
+order: "Nacellida"
+superfamily: "Lottioidea"
+family: "Lottiidae"
+subfamily: "Lottiinae"
+tribe: "Patelloidini"
+genus: "Patelloida"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/patelloida-heteromorpha.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

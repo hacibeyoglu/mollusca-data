@@ -1,0 +1,25 @@
+---
+title: "Anatoma miocenica"
+rank: species
+authority: "(Laws, 1939)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Vetigastropoda"
+order: "Lepetellida"
+superfamily: "Scissurelloidea"
+family: "Anatomidae"
+genus: "Anatoma"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/anatoma-miocenica.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

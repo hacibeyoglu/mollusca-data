@@ -1,0 +1,25 @@
+---
+title: "Hedleyella falconeri"
+rank: species
+authority: "(J. E. Gray, 1834)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+superfamily: "Rhytidoidea"
+family: "Caryodidae"
+genus: "Hedleyella"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/hedleyella-falconeri.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

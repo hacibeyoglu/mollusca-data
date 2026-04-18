@@ -1,0 +1,25 @@
+---
+title: "Pinctada petersii"
+rank: species
+authority: "(Dunker, 1852)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Ostreida"
+superfamily: "Pterioidea"
+family: "Margaritidae"
+genus: "Pinctada"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/pinctada-petersii.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

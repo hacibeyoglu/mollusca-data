@@ -1,0 +1,26 @@
+---
+title: "Acanthotrophon aquensis"
+rank: species
+authority: "Lozouet, 1999"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Neogastropoda"
+superfamily: "Muricoidea"
+family: "Muricidae"
+subfamily: "Aspellinae"
+genus: "Acanthotrophon"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/acanthotrophon-aquensis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

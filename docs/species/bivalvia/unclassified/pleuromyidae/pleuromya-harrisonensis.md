@@ -1,0 +1,25 @@
+---
+title: "Pleuromya harrisonensis"
+rank: species
+authority: "Crickmay, 1930"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Unclassified"
+superfamily: "Pleuromyoidea"
+family: "Pleuromyidae"
+genus: "Pleuromya"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/pleuromya-harrisonensis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

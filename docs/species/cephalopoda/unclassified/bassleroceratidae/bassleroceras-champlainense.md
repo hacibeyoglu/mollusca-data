@@ -1,0 +1,24 @@
+---
+title: "Bassleroceras champlainense"
+rank: species
+authority: "Kröger & Landing, 2008"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Cephalopoda"
+subclass: "Multiceratoidea"
+order: "Unclassified"
+family: "Bassleroceratidae"
+genus: "Bassleroceras"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/bassleroceras-champlainense.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

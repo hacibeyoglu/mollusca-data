@@ -1,0 +1,25 @@
+---
+title: "Helicarion altitudinis"
+rank: species
+authority: "Pilsbry, 1934"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Helicarionidae"
+subfamily: "Helicarioninae"
+genus: "Helicarion"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/helicarion-altitudinis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

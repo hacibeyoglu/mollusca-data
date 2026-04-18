@@ -1,0 +1,26 @@
+---
+title: "Odostomella pupa"
+rank: species
+authority: "(R. B. Watson, 1886)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+superfamily: "Pyramidelloidea"
+family: "Pyramidellidae"
+subfamily: "Odostomiinae"
+genus: "Odostomella"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/odostomella-pupa.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

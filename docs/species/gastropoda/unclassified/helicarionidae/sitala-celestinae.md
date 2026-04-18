@@ -1,0 +1,26 @@
+---
+title: "Sitala celestinae"
+rank: species
+authority: "K. C. Emberton & O. L. Griffiths, 2009"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Helicarionidae"
+subfamily: "Durgellinae"
+tribe: "Durgellini"
+genus: "Sitala"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/sitala-celestinae.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

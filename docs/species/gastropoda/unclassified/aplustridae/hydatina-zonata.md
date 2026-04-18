@@ -1,0 +1,25 @@
+---
+title: "Hydatina zonata"
+rank: species
+authority: "([Lightfoot], 1786)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+superfamily: "Acteonoidea"
+family: "Aplustridae"
+genus: "Hydatina"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/hydatina-zonata.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

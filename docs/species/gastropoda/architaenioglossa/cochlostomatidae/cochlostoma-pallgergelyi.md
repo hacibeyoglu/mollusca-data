@@ -1,0 +1,25 @@
+---
+title: "Cochlostoma pallgergelyi"
+rank: species
+authority: "Zallot, Kamchev, Schilthuizen, Fehér, De Mattia & E. Gittenberger, 2024"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Architaenioglossa"
+superfamily: "Cyclophoroidea"
+family: "Cochlostomatidae"
+genus: "Cochlostoma"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/cochlostoma-pallgergelyi.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

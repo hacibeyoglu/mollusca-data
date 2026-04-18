@@ -1,0 +1,24 @@
+---
+title: "Microscintilla mamillata"
+rank: species
+authority: "Neubert, 2002"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Cerastidae"
+genus: "Microscintilla"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/microscintilla-mamillata.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

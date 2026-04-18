@@ -1,0 +1,26 @@
+---
+title: "Pincerna vanbuensis"
+rank: species
+authority: "(Bavay & Dautzenberg, 1900)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Architaenioglossa"
+superfamily: "Cyclophoroidea"
+family: "Cyclophoridae"
+subfamily: "Alycaeinae"
+genus: "Pincerna"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/pincerna-vanbuensis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

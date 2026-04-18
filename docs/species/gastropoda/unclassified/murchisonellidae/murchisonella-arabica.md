@@ -1,0 +1,26 @@
+---
+title: "Murchisonella arabica"
+rank: species
+authority: "Bandel, 2005"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+superfamily: "Murchisonelloidea"
+family: "Murchisonellidae"
+subfamily: "Murchisonellinae"
+genus: "Murchisonella"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/murchisonella-arabica.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

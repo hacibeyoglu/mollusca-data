@@ -1,0 +1,26 @@
+---
+title: "Gabbia subbaraoi"
+rank: species
+authority: "(Glöer & Bössneck, 2013)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Littorinimorpha"
+superfamily: "Truncatelloidea"
+family: "Bithyniidae"
+subfamily: "Mysorellinae"
+genus: "Gabbia"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/gabbia-subbaraoi.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

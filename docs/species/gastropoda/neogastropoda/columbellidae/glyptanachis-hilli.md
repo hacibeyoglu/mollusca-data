@@ -1,0 +1,25 @@
+---
+title: "Glyptanachis hilli"
+rank: species
+authority: "(Pilsbry & H. N. Lowe, 1932)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Neogastropoda"
+superfamily: "Buccinoidea"
+family: "Columbellidae"
+genus: "Glyptanachis"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/glyptanachis-hilli.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

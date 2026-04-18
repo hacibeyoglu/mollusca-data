@@ -1,0 +1,25 @@
+---
+title: "Xylophaga indica"
+rank: species
+authority: "E. A. Smith, 1904"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Unclassified"
+superfamily: "Pholadoidea"
+family: "Xylophagaidae"
+genus: "Xylophaga"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/xylophaga-indica.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

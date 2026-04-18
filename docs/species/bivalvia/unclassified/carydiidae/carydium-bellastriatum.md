@@ -1,0 +1,24 @@
+---
+title: "Carydium bellastriatum"
+rank: species
+authority: "(Conrad, 1841)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Unclassified"
+family: "Carydiidae"
+genus: "Carydium"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/carydium-bellastriatum.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

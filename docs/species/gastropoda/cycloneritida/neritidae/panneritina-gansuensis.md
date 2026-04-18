@@ -1,0 +1,25 @@
+---
+title: "Panneritina gansuensis"
+rank: species
+authority: "(W. Yu & F. Guo, 1982)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Neritimorpha"
+order: "Cycloneritida"
+superfamily: "Neritoidea"
+family: "Neritidae"
+genus: "Panneritina"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/panneritina-gansuensis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

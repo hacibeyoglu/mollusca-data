@@ -1,0 +1,26 @@
+---
+title: "Hyalina electrina"
+rank: species
+authority: "(G. B. Sowerby III, 1892)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Neogastropoda"
+superfamily: "Volutoidea"
+family: "Marginellidae"
+subfamily: "Pruninae"
+genus: "Hyalina"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/hyalina-electrina.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

@@ -1,0 +1,25 @@
+---
+title: "Bythinella metarubra"
+rank: species
+authority: "Falniowski, 1987"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Littorinimorpha"
+superfamily: "Truncatelloidea"
+family: "Bythinellidae"
+genus: "Bythinella"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/bythinella-metarubra.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

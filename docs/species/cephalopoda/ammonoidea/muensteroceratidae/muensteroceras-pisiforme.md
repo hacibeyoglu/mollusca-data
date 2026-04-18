@@ -1,0 +1,24 @@
+---
+title: "Muensteroceras pisiforme"
+rank: species
+authority: "Gordon, 1964"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Cephalopoda"
+order: "Ammonoidea"
+superfamily: "Pericyclaceae"
+family: "Muensteroceratidae"
+genus: "Muensteroceras"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/muensteroceras-pisiforme.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

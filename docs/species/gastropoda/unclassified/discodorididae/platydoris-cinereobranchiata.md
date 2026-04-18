@@ -1,0 +1,25 @@
+---
+title: "Platydoris cinereobranchiata"
+rank: species
+authority: "Dorgan, Á. Valdés & Gosliner, 2002"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+superfamily: "Doridoidea"
+family: "Discodorididae"
+genus: "Platydoris"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/platydoris-cinereobranchiata.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

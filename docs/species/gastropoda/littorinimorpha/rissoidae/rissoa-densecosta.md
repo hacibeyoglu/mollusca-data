@@ -1,0 +1,25 @@
+---
+title: "Rissoa densecosta"
+rank: species
+authority: "Etheridge & Bell, 1893"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Littorinimorpha"
+superfamily: "Rissooidea"
+family: "Rissoidae"
+genus: "Rissoa"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/rissoa-densecosta.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

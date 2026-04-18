@@ -1,0 +1,25 @@
+---
+title: "Cavipupa euryomphala"
+rank: species
+authority: "(Pilsbry, 1934)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Gastrocoptidae"
+subfamily: "Gastrocoptinae"
+genus: "Cavipupa"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/cavipupa-euryomphala.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

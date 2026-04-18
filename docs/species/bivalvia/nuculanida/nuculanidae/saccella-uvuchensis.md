@@ -1,0 +1,26 @@
+---
+title: "Saccella uvuchensis"
+rank: species
+authority: "(Sinelnikova, 1991)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Protobranchia"
+order: "Nuculanida"
+superfamily: "Nuculanoidea"
+family: "Nuculanidae"
+subfamily: "Nuculaninae"
+genus: "Saccella"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/saccella-uvuchensis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

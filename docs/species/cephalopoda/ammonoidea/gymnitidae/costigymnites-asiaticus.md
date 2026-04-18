@@ -1,0 +1,24 @@
+---
+title: "Costigymnites asiaticus"
+rank: species
+authority: "Krystyn & Tatzreiter, 1991"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Cephalopoda"
+order: "Ammonoidea"
+superfamily: "Pinacocerataceae"
+family: "Gymnitidae"
+genus: "Costigymnites"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/costigymnites-asiaticus.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

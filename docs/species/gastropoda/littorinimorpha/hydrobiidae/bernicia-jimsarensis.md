@@ -1,0 +1,25 @@
+---
+title: "Bernicia jimsarensis"
+rank: species
+authority: "W. Yu & X.-G. Zhu, 1990"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Littorinimorpha"
+superfamily: "Truncatelloidea"
+family: "Hydrobiidae"
+genus: "Bernicia"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/bernicia-jimsarensis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

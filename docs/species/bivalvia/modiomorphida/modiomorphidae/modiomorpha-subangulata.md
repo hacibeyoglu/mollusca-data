@@ -1,0 +1,25 @@
+---
+title: "Modiomorpha subangulata"
+rank: species
+authority: "J. Hall, 1885"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Modiomorphida"
+superfamily: "Modiomorphoidea"
+family: "Modiomorphidae"
+genus: "Modiomorpha"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/modiomorpha-subangulata.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

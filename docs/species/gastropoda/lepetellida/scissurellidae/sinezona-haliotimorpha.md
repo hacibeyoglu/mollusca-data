@@ -1,0 +1,25 @@
+---
+title: "Sinezona haliotimorpha"
+rank: species
+authority: "Lozouet, 1998"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Vetigastropoda"
+order: "Lepetellida"
+superfamily: "Scissurelloidea"
+family: "Scissurellidae"
+genus: "Sinezona"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/sinezona-haliotimorpha.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

@@ -1,0 +1,25 @@
+---
+title: "Parabalea peruviana"
+rank: species
+authority: "(L. Pfeiffer, 1867)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Unclassified"
+subfamily: "Peruiniinae"
+genus: "Parabalea"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/parabalea-peruviana.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

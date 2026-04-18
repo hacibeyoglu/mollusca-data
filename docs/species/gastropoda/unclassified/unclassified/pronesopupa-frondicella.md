@@ -1,0 +1,25 @@
+---
+title: "Pronesopupa frondicella"
+rank: species
+authority: "Cooke & Pilsbry, 1920"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Unclassified"
+subfamily: "Nesopupinae"
+genus: "Pronesopupa"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/pronesopupa-frondicella.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

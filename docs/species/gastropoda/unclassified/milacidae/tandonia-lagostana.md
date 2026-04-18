@@ -1,0 +1,24 @@
+---
+title: "Tandonia lagostana"
+rank: species
+authority: "(H. Wagner, 1940)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Milacidae"
+genus: "Tandonia"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/tandonia-lagostana.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

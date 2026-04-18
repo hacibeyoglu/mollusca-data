@@ -1,0 +1,24 @@
+---
+title: "Cerastus rothschildianus"
+rank: species
+authority: "(H. Neuville & R. Anthony, 1905)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Cerastidae"
+genus: "Cerastus"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/cerastus-rothschildianus.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

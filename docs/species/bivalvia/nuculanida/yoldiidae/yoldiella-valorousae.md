@@ -1,0 +1,26 @@
+---
+title: "Yoldiella valorousae"
+rank: species
+authority: "Killeen & J. A. Turner, 2009"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Protobranchia"
+order: "Nuculanida"
+superfamily: "Nuculanoidea"
+family: "Yoldiidae"
+subfamily: "Yoldiellinae"
+genus: "Yoldiella"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/yoldiella-valorousae.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

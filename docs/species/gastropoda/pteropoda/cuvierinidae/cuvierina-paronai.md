@@ -1,0 +1,26 @@
+---
+title: "Cuvierina paronai"
+rank: species
+authority: "Checchia-Rispoli, 1921"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Pteropoda"
+suborder: "Euthecosomata"
+superfamily: "Cavolinioidea"
+family: "Cuvierinidae"
+genus: "Cuvierina"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/cuvierina-paronai.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

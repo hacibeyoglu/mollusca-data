@@ -1,0 +1,24 @@
+---
+title: "Celtites teres"
+rank: species
+authority: "Waagen, 1895"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Cephalopoda"
+order: "Ammonoidea"
+superfamily: "Tropitoidea"
+family: "Celtitidae"
+genus: "Celtites"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/celtites-teres.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

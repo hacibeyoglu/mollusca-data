@@ -1,0 +1,27 @@
+---
+title: "Cyclophorus chitwanus"
+rank: species
+authority: "Greke, 2024"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Architaenioglossa"
+superfamily: "Cyclophoroidea"
+family: "Cyclophoridae"
+subfamily: "Cyclophorinae"
+tribe: "Cyclophorini"
+genus: "Cyclophorus"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/cyclophorus-chitwanus.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

@@ -1,0 +1,25 @@
+---
+title: "Phlyctiderma puncturella"
+rank: species
+authority: "(Dall, 1899)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Venerida"
+superfamily: "Ungulinoidea"
+family: "Ungulinidae"
+genus: "Phlyctiderma"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/phlyctiderma-puncturella.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

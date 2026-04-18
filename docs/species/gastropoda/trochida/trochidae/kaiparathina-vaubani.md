@@ -1,0 +1,26 @@
+---
+title: "Kaiparathina vaubani"
+rank: species
+authority: "B. A. Marshall, 1993"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Vetigastropoda"
+order: "Trochida"
+superfamily: "Trochoidea"
+family: "Trochidae"
+subfamily: "Kaiparathininae"
+genus: "Kaiparathina"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/kaiparathina-vaubani.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

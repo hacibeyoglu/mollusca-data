@@ -1,0 +1,25 @@
+---
+title: "Retimohnia frielei"
+rank: species
+authority: "(Dall, 1891)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Neogastropoda"
+superfamily: "Buccinoidea"
+family: "Retimohniidae"
+genus: "Retimohnia"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/retimohnia-frielei.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

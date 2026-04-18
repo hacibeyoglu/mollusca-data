@@ -1,0 +1,25 @@
+---
+title: "Mikadotrochus salmianus"
+rank: species
+authority: "(Rolle, 1899)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Vetigastropoda"
+order: "Pleurotomariida"
+superfamily: "Pleurotomarioidea"
+family: "Pleurotomariidae"
+genus: "Mikadotrochus"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/mikadotrochus-salmianus.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

@@ -1,0 +1,25 @@
+---
+title: "Nucula totangiensis"
+rank: species
+authority: "(Marwick, 1931)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Protobranchia"
+order: "Nuculida"
+superfamily: "Nuculoidea"
+family: "Nuculidae"
+genus: "Nucula"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/nucula-totangiensis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

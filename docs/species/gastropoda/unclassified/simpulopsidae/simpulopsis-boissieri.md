@@ -1,0 +1,24 @@
+---
+title: "Simpulopsis boissieri"
+rank: species
+authority: "(S. Moricand, 1846)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Simpulopsidae"
+genus: "Simpulopsis"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/simpulopsis-boissieri.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

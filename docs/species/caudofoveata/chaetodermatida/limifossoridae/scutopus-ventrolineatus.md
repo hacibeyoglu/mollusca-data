@@ -1,0 +1,23 @@
+---
+title: "Scutopus ventrolineatus"
+rank: species
+authority: "Salvini-Plawen, 1968"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Caudofoveata"
+order: "Chaetodermatida"
+family: "Limifossoridae"
+genus: "Scutopus"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/scutopus-ventrolineatus.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

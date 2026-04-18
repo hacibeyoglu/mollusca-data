@@ -1,0 +1,26 @@
+---
+title: "Caspia nitida"
+rank: species
+authority: "(Pavlović, 1927)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Littorinimorpha"
+superfamily: "Truncatelloidea"
+family: "Hydrobiidae"
+subfamily: "Caspiinae"
+genus: "Caspia"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/caspia-nitida.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

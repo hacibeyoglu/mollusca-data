@@ -1,0 +1,25 @@
+---
+title: "Anachis corbariae"
+rank: species
+authority: "K. Monsecour & D. Monsecour, 2024"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Neogastropoda"
+superfamily: "Buccinoidea"
+family: "Columbellidae"
+genus: "Anachis"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/anachis-corbariae.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

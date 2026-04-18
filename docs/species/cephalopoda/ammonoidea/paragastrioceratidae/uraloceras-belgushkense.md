@@ -1,0 +1,24 @@
+---
+title: "Uraloceras belgushkense"
+rank: species
+authority: "Ruzhentsev, 1956"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Cephalopoda"
+order: "Ammonoidea"
+superfamily: "Neoicocerataceae"
+family: "Paragastrioceratidae"
+genus: "Uraloceras"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/uraloceras-belgushkense.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

@@ -1,0 +1,23 @@
+---
+title: "Eremoceras cloudi"
+rank: species
+authority: "(Unklesbay, 1954)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Cephalopoda"
+order: "Ellesmeroceratida"
+family: "Ellesmeroceratidae"
+genus: "Eremoceras"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/eremoceras-cloudi.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

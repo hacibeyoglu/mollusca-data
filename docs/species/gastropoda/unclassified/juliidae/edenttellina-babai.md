@@ -1,0 +1,26 @@
+---
+title: "Edenttellina babai"
+rank: species
+authority: "(Burn, 1965)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+superfamily: "Oxynooidea"
+family: "Juliidae"
+subfamily: "Bertheliniinae"
+genus: "Edenttellina"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/edenttellina-babai.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

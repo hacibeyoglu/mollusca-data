@@ -1,0 +1,25 @@
+---
+title: "Turris garoensis"
+rank: species
+authority: "Mukerjee, 1939"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Neogastropoda"
+superfamily: "Conoidea"
+family: "Turridae"
+genus: "Turris"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/turris-garoensis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

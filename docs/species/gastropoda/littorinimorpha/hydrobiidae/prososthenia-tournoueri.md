@@ -1,0 +1,26 @@
+---
+title: "Prososthenia tournoueri"
+rank: species
+authority: "(Neumayr, 1869)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Littorinimorpha"
+superfamily: "Truncatelloidea"
+family: "Hydrobiidae"
+subfamily: "Hydrobiinae"
+genus: "Prososthenia"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/prososthenia-tournoueri.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

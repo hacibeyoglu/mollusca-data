@@ -1,0 +1,25 @@
+---
+title: "Halgerda batangas"
+rank: species
+authority: "Carlson & Hoff, 2000"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+superfamily: "Doridoidea"
+family: "Discodorididae"
+genus: "Halgerda"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/halgerda-batangas.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

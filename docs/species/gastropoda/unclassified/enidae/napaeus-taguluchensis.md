@@ -1,0 +1,24 @@
+---
+title: "Napaeus taguluchensis"
+rank: species
+authority: "Henríquez, 1993"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Enidae"
+genus: "Napaeus"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/napaeus-taguluchensis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

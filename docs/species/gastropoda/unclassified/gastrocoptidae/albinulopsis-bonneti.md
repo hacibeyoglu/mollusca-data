@@ -1,0 +1,24 @@
+---
+title: "Albinulopsis bonneti"
+rank: species
+authority: "(Cossmann, 1907)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Gastrocoptidae"
+genus: "Albinulopsis"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/albinulopsis-bonneti.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

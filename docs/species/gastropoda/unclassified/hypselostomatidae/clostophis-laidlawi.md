@@ -1,0 +1,24 @@
+---
+title: "Clostophis laidlawi"
+rank: species
+authority: "(Collinge, 1902)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Hypselostomatidae"
+genus: "Clostophis"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/clostophis-laidlawi.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

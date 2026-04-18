@@ -1,0 +1,24 @@
+---
+title: "Parahomoceras africanum"
+rank: species
+authority: "Ruzhentsev & Bogoslovskaya, 1971"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Cephalopoda"
+order: "Ammonoidea"
+superfamily: "Gastriocerataceae"
+family: "Homoceratidae"
+genus: "Parahomoceras"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/parahomoceras-africanum.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

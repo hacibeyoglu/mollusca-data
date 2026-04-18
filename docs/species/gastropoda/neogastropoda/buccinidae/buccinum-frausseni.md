@@ -1,0 +1,26 @@
+---
+title: "Buccinum frausseni"
+rank: species
+authority: "Alexeyev & Gornichnykh, 2009"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Neogastropoda"
+superfamily: "Buccinoidea"
+family: "Buccinidae"
+subfamily: "Buccininae"
+genus: "Buccinum"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/buccinum-frausseni.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

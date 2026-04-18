@@ -1,0 +1,25 @@
+---
+title: "Craspedopoma bonnetae"
+rank: species
+authority: "Cossmann, 1907"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Architaenioglossa"
+superfamily: "Cyclophoroidea"
+family: "Craspedopomatidae"
+genus: "Craspedopoma"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/craspedopoma-bonnetae.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

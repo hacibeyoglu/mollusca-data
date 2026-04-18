@@ -1,0 +1,26 @@
+---
+title: "Nesiocina villosa"
+rank: species
+authority: "(Anton, 1838)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Neritimorpha"
+order: "Cycloneritida"
+superfamily: "Helicinoidea"
+family: "Helicinidae"
+subfamily: "Helicininae"
+genus: "Nesiocina"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/nesiocina-villosa.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

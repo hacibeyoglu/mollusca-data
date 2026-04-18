@@ -1,0 +1,24 @@
+---
+title: "Amimopina subangulatus"
+rank: species
+authority: "(L. Pfeiffer, 1863)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+family: "Cerastidae"
+genus: "Amimopina"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/amimopina-subangulatus.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

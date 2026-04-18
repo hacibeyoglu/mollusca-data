@@ -1,0 +1,27 @@
+---
+title: "Opisthoporus euryomphalus"
+rank: species
+authority: "(L. Pfeiffer, 1857)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Architaenioglossa"
+superfamily: "Cyclophoroidea"
+family: "Cyclophoridae"
+subfamily: "Cyclophorinae"
+tribe: "Cyclotini"
+genus: "Opisthoporus"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/opisthoporus-euryomphalus.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

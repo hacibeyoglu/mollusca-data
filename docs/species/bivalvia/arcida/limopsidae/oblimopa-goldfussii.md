@@ -1,0 +1,25 @@
+---
+title: "Oblimopa goldfussii"
+rank: species
+authority: "(Nyst, 1845)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Arcida"
+superfamily: "Limopsoidea"
+family: "Limopsidae"
+genus: "Oblimopa"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/oblimopa-goldfussii.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

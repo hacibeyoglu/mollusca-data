@@ -1,0 +1,26 @@
+---
+title: "Dosinia castigata"
+rank: species
+authority: "Marwick, 1960"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Venerida"
+superfamily: "Veneroidea"
+family: "Veneridae"
+subfamily: "Dosiniinae"
+genus: "Dosinia"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/dosinia-castigata.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

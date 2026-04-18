@@ -1,0 +1,26 @@
+---
+title: "Potamilus rovirosai"
+rank: species
+authority: "(Pilsbry, 1900)"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Bivalvia"
+subclass: "Autobranchia"
+order: "Unclassified"
+family: "Unclassified"
+subfamily: "Ambleminae"
+tribe: "Lampsilini"
+genus: "Potamilus"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/potamilus-rovirosai.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

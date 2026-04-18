@@ -1,0 +1,25 @@
+---
+title: "Dicroloma tenuistriata"
+rank: species
+authority: "Guzhov, 2014"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Littorinimorpha"
+superfamily: "Stromboidea"
+family: "Aporrhaidae"
+genus: "Dicroloma"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/dicroloma-tenuistriata.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

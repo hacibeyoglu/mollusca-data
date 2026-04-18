@@ -1,0 +1,24 @@
+---
+title: "Pulsellum hige"
+rank: species
+authority: "Habe, 1963"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Scaphopoda"
+order: "Gadilida"
+suborder: "Gadilimorpha"
+family: "Pulsellidae"
+genus: "Pulsellum"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/pulsellum-hige.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

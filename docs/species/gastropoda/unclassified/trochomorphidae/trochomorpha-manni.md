@@ -1,0 +1,25 @@
+---
+title: "Trochomorpha manni"
+rank: species
+authority: "Clapp, 1923"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Heterobranchia"
+order: "Unclassified"
+superfamily: "Trochomorphoidea"
+family: "Trochomorphidae"
+genus: "Trochomorpha"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/trochomorpha-manni.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+

@@ -1,0 +1,25 @@
+---
+title: "Cerithidea andamanensis"
+rank: species
+authority: "D. Reid, 2014"
+tr_name: "TBD"
+phylum: Mollusca
+class: "Gastropoda"
+subclass: "Caenogastropoda"
+order: "Unclassified"
+superfamily: "Cerithioidea"
+family: "Potamididae"
+genus: "Cerithidea"
+seas:
+  - Aegean
+  - Marmara
+  - Levantine
+  - Black Sea
+depth: "TBD"
+status: "Native"
+images:
+  - image: "/img/species/cerithidea-andamanensis.jpg"
+    description: "TBD"
+summary: "TBD"
+---
+
