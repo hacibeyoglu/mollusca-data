@@ -1,9 +1,7 @@
 ---
 title: "Potomida littoralis"
-rank: species
 authority: "(Cuvier, 1798)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Bivalvia"
 subclass: "Autobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ family: "Unclassified"
 subfamily: "Gonideinae"
 tribe: "Lamprotulini"
 genus: "Potomida"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/potomida-littoralis.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

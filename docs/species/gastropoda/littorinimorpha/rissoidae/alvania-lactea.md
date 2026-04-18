@@ -1,25 +1,17 @@
 ---
 title: "Alvania lactea"
-rank: species
 authority: "(Michaud, 1830)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Littorinimorpha"
 superfamily: "Rissooidea"
 family: "Rissoidae"
 genus: "Alvania"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/alvania-lactea.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

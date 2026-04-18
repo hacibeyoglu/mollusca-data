@@ -1,9 +1,7 @@
 ---
 title: "Helix secernenda"
-rank: species
 authority: "Rossmässler, 1847"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ family: "Helicidae"
 subfamily: "Helicinae"
 tribe: "Helicini"
 genus: "Helix"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/helix-secernenda.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: "Rhyssoplax olivacea"
-rank: species
 authority: "(L. Spengler, 1797)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Polyplacophora"
 subclass: "Neoloricata"
 order: "Chitonida"
@@ -12,16 +10,10 @@ superfamily: "Chitonoidea"
 family: "Chitonidae"
 subfamily: "Chitoninae"
 genus: "Rhyssoplax"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/rhyssoplax-olivacea.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

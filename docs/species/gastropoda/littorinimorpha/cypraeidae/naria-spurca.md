@@ -1,9 +1,7 @@
 ---
 title: "Naria spurca"
-rank: species
 authority: "(Linnaeus, 1758)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Littorinimorpha"
@@ -11,16 +9,10 @@ superfamily: "Cypraeoidea"
 family: "Cypraeidae"
 subfamily: "Erosariinae"
 genus: "Naria"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/naria-spurca.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

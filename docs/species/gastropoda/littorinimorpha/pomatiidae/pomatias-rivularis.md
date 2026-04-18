@@ -1,25 +1,17 @@
 ---
 title: "Pomatias rivularis"
-rank: species
 authority: "(Eichwald, 1829)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Littorinimorpha"
 superfamily: "Littorinoidea"
 family: "Pomatiidae"
 genus: "Pomatias"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/pomatias-rivularis.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

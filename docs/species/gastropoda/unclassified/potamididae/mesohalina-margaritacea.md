@@ -1,25 +1,17 @@
 ---
 title: "Mesohalina margaritacea"
-rank: species
 authority: "(Brocchi, 1814)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Unclassified"
 superfamily: "Cerithioidea"
 family: "Potamididae"
 genus: "Mesohalina"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/mesohalina-margaritacea.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

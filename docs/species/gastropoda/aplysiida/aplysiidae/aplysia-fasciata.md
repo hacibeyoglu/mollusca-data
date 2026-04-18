@@ -1,25 +1,17 @@
 ---
 title: "Aplysia fasciata"
-rank: species
 authority: "Poiret, 1789"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Aplysiida"
 superfamily: "Aplysioidea"
 family: "Aplysiidae"
 genus: "Aplysia"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/aplysia-fasciata.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

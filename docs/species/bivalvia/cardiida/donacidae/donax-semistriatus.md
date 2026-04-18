@@ -1,25 +1,17 @@
 ---
 title: "Donax semistriatus"
-rank: species
 authority: "Poli, 1795"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Bivalvia"
 subclass: "Autobranchia"
 order: "Cardiida"
 superfamily: "Tellinoidea"
 family: "Donacidae"
 genus: "Donax"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/donax-semistriatus.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

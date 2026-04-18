@@ -1,9 +1,7 @@
 ---
 title: "Naticarius hebraeus"
-rank: species
 authority: "(Martyn, 1786)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Littorinimorpha"
@@ -11,16 +9,10 @@ superfamily: "Naticoidea"
 family: "Naticidae"
 subfamily: "Naticinae"
 genus: "Naticarius"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/naticarius-hebraeus.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: "Viriola bayani"
-rank: species
 authority: "Jousseaume, 1884"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Unclassified"
@@ -11,16 +9,10 @@ superfamily: "Triphoroidea"
 family: "Triphoridae"
 subfamily: "Triphorinae"
 genus: "Viriola"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/viriola-bayani.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: "Felimida luteorosea"
-rank: species
 authority: "(Rapp, 1827)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ superfamily: "Chromodoridoidea"
 family: "Chromodorididae"
 subfamily: "Chromodoridinae"
 genus: "Felimida"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/felimida-luteorosea.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: "Candidula unifasciata"
-rank: species
 authority: "(Poiret, 1801)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ family: "Geomitridae"
 subfamily: "Helicellinae"
 tribe: "Helicellini"
 genus: "Candidula"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/candidula-unifasciata.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

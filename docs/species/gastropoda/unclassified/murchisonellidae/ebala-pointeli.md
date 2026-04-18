@@ -1,9 +1,7 @@
 ---
 title: "Ebala pointeli"
-rank: species
 authority: "(de Folin, 1868)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ superfamily: "Murchisonelloidea"
 family: "Murchisonellidae"
 subfamily: "Ebalinae"
 genus: "Ebala"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/ebala-pointeli.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

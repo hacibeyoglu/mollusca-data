@@ -1,9 +1,7 @@
 ---
 title: "Pseudamnicola vinarskii"
-rank: species
 authority: "Glöer & Georgiev, 2012"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Littorinimorpha"
@@ -11,16 +9,10 @@ superfamily: "Truncatelloidea"
 family: "Hydrobiidae"
 subfamily: "Pseudamnicolinae"
 genus: "Pseudamnicola"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/pseudamnicola-vinarskii.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

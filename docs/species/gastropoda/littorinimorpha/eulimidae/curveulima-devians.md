@@ -1,25 +1,17 @@
 ---
 title: "Curveulima devians"
-rank: species
 authority: "(Monterosato, 1884)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Littorinimorpha"
 superfamily: "Vanikoroidea"
 family: "Eulimidae"
 genus: "Curveulima"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/curveulima-devians.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

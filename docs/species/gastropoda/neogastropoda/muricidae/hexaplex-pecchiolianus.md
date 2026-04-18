@@ -1,9 +1,7 @@
 ---
 title: "Hexaplex pecchiolianus"
-rank: species
 authority: "(d'Ancona, 1871)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Neogastropoda"
@@ -11,16 +9,10 @@ superfamily: "Muricoidea"
 family: "Muricidae"
 subfamily: "Muricinae"
 genus: "Hexaplex"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/hexaplex-pecchiolianus.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

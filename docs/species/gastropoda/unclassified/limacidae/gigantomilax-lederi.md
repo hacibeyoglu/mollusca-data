@@ -1,9 +1,7 @@
 ---
 title: "Gigantomilax lederi"
-rank: species
 authority: "(O. Boettger, 1883)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ superfamily: "Limacoidea"
 family: "Limacidae"
 subfamily: "Limacinae"
 genus: "Gigantomilax"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/gigantomilax-lederi.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

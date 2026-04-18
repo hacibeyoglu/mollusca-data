@@ -1,25 +1,17 @@
 ---
 title: "Gari depressa"
-rank: species
 authority: "(Pennant, 1777)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Bivalvia"
 subclass: "Autobranchia"
 order: "Cardiida"
 superfamily: "Tellinoidea"
 family: "Psammobiidae"
 genus: "Gari"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/gari-depressa.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

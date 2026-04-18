@@ -1,9 +1,7 @@
 ---
 title: "Mimachlamys varia"
-rank: species
 authority: "(Linnaeus, 1758)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Bivalvia"
 subclass: "Autobranchia"
 order: "Pectinida"
@@ -12,16 +10,10 @@ family: "Pectinidae"
 subfamily: "Pedinae"
 tribe: "Mimachlamydini"
 genus: "Mimachlamys"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/mimachlamys-varia.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

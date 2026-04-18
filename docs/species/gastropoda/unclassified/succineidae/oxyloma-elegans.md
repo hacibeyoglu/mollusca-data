@@ -1,9 +1,7 @@
 ---
 title: "Oxyloma elegans"
-rank: species
 authority: "(Risso, 1826)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ superfamily: "Succineoidea"
 family: "Succineidae"
 subfamily: "Oxylomatinae"
 genus: "Oxyloma"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/oxyloma-elegans.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

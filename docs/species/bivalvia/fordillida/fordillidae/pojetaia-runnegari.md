@@ -1,24 +1,16 @@
 ---
 title: "Pojetaia runnegari"
-rank: species
 authority: "Jell, 1980"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Bivalvia"
 order: "Fordillida"
 superfamily: "Fordilloidea"
 family: "Fordillidae"
 genus: "Pojetaia"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/pojetaia-runnegari.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

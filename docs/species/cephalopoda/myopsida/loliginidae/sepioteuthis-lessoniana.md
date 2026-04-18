@@ -1,24 +1,16 @@
 ---
 title: "Sepioteuthis lessoniana"
-rank: species
 authority: "R. P. Lesson, 1831"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Cephalopoda"
 subclass: "Coleoidea"
 order: "Myopsida"
 family: "Loliginidae"
 genus: "Sepioteuthis"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/sepioteuthis-lessoniana.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

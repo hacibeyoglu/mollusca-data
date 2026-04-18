@@ -1,9 +1,7 @@
 ---
 title: "Oxychilus draparnaudi"
-rank: species
 authority: "(H. Beck, 1837)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ superfamily: "Gastrodontoidea"
 family: "Oxychilidae"
 subfamily: "Oxychilinae"
 genus: "Oxychilus"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/oxychilus-draparnaudi.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

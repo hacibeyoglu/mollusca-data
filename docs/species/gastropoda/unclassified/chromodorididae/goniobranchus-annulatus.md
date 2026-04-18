@@ -1,9 +1,7 @@
 ---
 title: "Goniobranchus annulatus"
-rank: species
 authority: "(Eliot, 1904)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ superfamily: "Chromodoridoidea"
 family: "Chromodorididae"
 subfamily: "Chromodoridinae"
 genus: "Goniobranchus"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/goniobranchus-annulatus.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

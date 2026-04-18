@@ -1,24 +1,16 @@
 ---
 title: "Octopus hubbsorum"
-rank: species
 authority: "S. S. Berry, 1953"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Cephalopoda"
 subclass: "Coleoidea"
 order: "Unclassified"
 family: "Octopodidae"
 genus: "Octopus"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/octopus-hubbsorum.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

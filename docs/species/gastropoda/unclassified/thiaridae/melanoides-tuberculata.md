@@ -1,9 +1,7 @@
 ---
 title: "Melanoides tuberculata"
-rank: species
 authority: "(O. F. Müller, 1774)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Unclassified"
@@ -11,16 +9,10 @@ superfamily: "Cerithioidea"
 family: "Thiaridae"
 subfamily: "Thiarinae"
 genus: "Melanoides"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/melanoides-tuberculata.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: "Caloria elegans"
-rank: species
 authority: "(Alder & Hancock, 1845)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Nudibranchia"
@@ -11,16 +9,10 @@ suborder: "Aeolidina"
 superfamily: "Aeolidioidea"
 family: "Facelinidae"
 genus: "Caloria"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/caloria-elegans.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

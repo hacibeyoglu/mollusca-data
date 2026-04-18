@@ -1,25 +1,17 @@
 ---
 title: "Ammonicera arrondoi"
-rank: species
 authority: "J. D. Oliver & Rolán, 2015"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
 superfamily: "Omalogyroidea"
 family: "Omalogyridae"
 genus: "Ammonicera"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/ammonicera-arrondoi.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

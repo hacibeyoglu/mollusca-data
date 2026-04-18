@@ -1,9 +1,7 @@
 ---
 title: "Hydrobia acuta"
-rank: species
 authority: "(Draparnaud, 1805)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Littorinimorpha"
@@ -11,16 +9,10 @@ superfamily: "Truncatelloidea"
 family: "Hydrobiidae"
 subfamily: "Hydrobiinae"
 genus: "Hydrobia"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/hydrobia-acuta.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

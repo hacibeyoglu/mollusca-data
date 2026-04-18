@@ -1,25 +1,17 @@
 ---
 title: "Epitonium algerianum"
-rank: species
 authority: "(Weinkauff, 1866)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Unclassified"
 superfamily: "Epitonioidea"
 family: "Epitoniidae"
 genus: "Epitonium"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/epitonium-algerianum.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

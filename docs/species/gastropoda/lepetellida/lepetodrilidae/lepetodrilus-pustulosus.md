@@ -1,25 +1,17 @@
 ---
 title: "Lepetodrilus pustulosus"
-rank: species
 authority: "J. H. McLean, 1988"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Vetigastropoda"
 order: "Lepetellida"
 superfamily: "Lepetodriloidea"
 family: "Lepetodrilidae"
 genus: "Lepetodrilus"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/lepetodrilus-pustulosus.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

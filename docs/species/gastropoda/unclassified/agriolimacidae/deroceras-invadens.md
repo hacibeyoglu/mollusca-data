@@ -1,9 +1,7 @@
 ---
 title: "Deroceras invadens"
-rank: species
 authority: "Reise, Hutchinson, Schunack & Schlitt, 2011"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ superfamily: "Limacoidea"
 family: "Agriolimacidae"
 subfamily: "Agriolimacinae"
 genus: "Deroceras"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/deroceras-invadens.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

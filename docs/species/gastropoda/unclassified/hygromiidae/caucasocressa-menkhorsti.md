@@ -1,9 +1,7 @@
 ---
 title: "Caucasocressa menkhorsti"
-rank: species
 authority: "Hausdorf, 2003"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ family: "Hygromiidae"
 subfamily: "Trochulininae"
 tribe: "Monachaini"
 genus: "Caucasocressa"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/caucasocressa-menkhorsti.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

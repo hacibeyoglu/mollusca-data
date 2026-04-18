@@ -1,9 +1,7 @@
 ---
 title: "Bosemprella incarnata"
-rank: species
 authority: "(Linnaeus, 1758)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Bivalvia"
 subclass: "Autobranchia"
 order: "Cardiida"
@@ -11,16 +9,10 @@ superfamily: "Tellinoidea"
 family: "Tellinidae"
 subfamily: "Tellininae"
 genus: "Bosemprella"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/bosemprella-incarnata.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

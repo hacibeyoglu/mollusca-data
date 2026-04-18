@@ -1,9 +1,7 @@
 ---
 title: "Oxychilus deilus"
-rank: species
 authority: "(Bourguignat, 1857)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ superfamily: "Gastrodontoidea"
 family: "Oxychilidae"
 subfamily: "Oxychilinae"
 genus: "Oxychilus"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/oxychilus-deilus.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: "Unio crassus"
-rank: species
 authority: "Philipsson, 1788"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Bivalvia"
 subclass: "Autobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ family: "Unclassified"
 subfamily: "Unioninae"
 tribe: "Unionini"
 genus: "Unio"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/unio-crassus.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: "Helix anctostoma"
-rank: species
 authority: "E. von Martens, 1874"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ family: "Helicidae"
 subfamily: "Helicinae"
 tribe: "Helicini"
 genus: "Helix"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/helix-anctostoma.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

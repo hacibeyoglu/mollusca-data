@@ -1,9 +1,7 @@
 ---
 title: "Emarginula huzardii"
-rank: species
 authority: "Payraudeau, 1826"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Vetigastropoda"
 order: "Lepetellida"
@@ -11,16 +9,10 @@ superfamily: "Fissurelloidea"
 family: "Fissurellidae"
 subfamily: "Emarginulinae"
 genus: "Emarginula"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/emarginula-huzardii.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

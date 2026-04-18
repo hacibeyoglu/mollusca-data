@@ -1,9 +1,7 @@
 ---
 title: "Isaurica pamphylica"
-rank: species
 authority: "Subai, 1994"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ family: "Helicidae"
 subfamily: "Helicinae"
 tribe: "Helicini"
 genus: "Isaurica"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/isaurica-pamphylica.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

@@ -1,24 +1,16 @@
 ---
 title: "Proarcestes bramantei"
-rank: species
 authority: "(Mojsisovics, 1869)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Cephalopoda"
 order: "Ammonoidea"
 superfamily: "Arcestaceae"
 family: "Arcestidae"
 genus: "Proarcestes"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/proarcestes-bramantei.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

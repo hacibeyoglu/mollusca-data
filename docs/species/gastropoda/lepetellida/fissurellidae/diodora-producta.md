@@ -1,9 +1,7 @@
 ---
 title: "Diodora producta"
-rank: species
 authority: "(Monterosato, 1880)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Vetigastropoda"
 order: "Lepetellida"
@@ -11,16 +9,10 @@ superfamily: "Fissurelloidea"
 family: "Fissurellidae"
 subfamily: "Fissurellideinae"
 genus: "Diodora"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/diodora-producta.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

@@ -1,25 +1,17 @@
 ---
 title: "Rissoella opalina"
-rank: species
 authority: "(Jeffreys, 1848)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
 superfamily: "Rissoelloidea"
 family: "Rissoellidae"
 genus: "Rissoella"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/rissoella-opalina.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

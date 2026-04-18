@@ -1,25 +1,17 @@
 ---
 title: "Alvania discors"
-rank: species
 authority: "(T. Brown, 1818)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Littorinimorpha"
 superfamily: "Rissooidea"
 family: "Rissoidae"
 genus: "Alvania"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/alvania-discors.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

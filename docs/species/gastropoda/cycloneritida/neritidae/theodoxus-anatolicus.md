@@ -1,9 +1,7 @@
 ---
 title: "Theodoxus anatolicus"
-rank: species
 authority: "(Récluz, 1841)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Neritimorpha"
 order: "Cycloneritida"
@@ -11,16 +9,10 @@ superfamily: "Neritoidea"
 family: "Neritidae"
 subfamily: "Neritininae"
 genus: "Theodoxus"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/theodoxus-anatolicus.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

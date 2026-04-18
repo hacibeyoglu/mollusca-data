@@ -1,9 +1,7 @@
 ---
 title: "Moerella pulchella"
-rank: species
 authority: "(Lamarck, 1818)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Bivalvia"
 subclass: "Autobranchia"
 order: "Cardiida"
@@ -11,16 +9,10 @@ superfamily: "Tellinoidea"
 family: "Tellinidae"
 subfamily: "Moerellinae"
 genus: "Moerella"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/moerella-pulchella.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

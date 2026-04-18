@@ -1,9 +1,7 @@
 ---
 title: "Syrnola fasciata"
-rank: species
 authority: "Jickeli, 1882"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ superfamily: "Pyramidelloidea"
 family: "Pyramidellidae"
 subfamily: "Turbonillinae"
 genus: "Syrnola"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/syrnola-fasciata.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

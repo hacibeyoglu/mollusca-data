@@ -1,24 +1,16 @@
 ---
 title: "Tropidoceras heterogeneum"
-rank: species
 authority: "Meister et al., 2011"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Cephalopoda"
 order: "Ammonoidea"
 superfamily: "Eoderocerataceae"
 family: "Polymorphitidae"
 genus: "Tropidoceras"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/tropidoceras-heterogeneum.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

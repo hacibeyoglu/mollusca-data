@@ -1,9 +1,7 @@
 ---
 title: "Ocenebra erinaceus"
-rank: species
 authority: "(Linnaeus, 1758)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Neogastropoda"
@@ -11,16 +9,10 @@ superfamily: "Muricoidea"
 family: "Muricidae"
 subfamily: "Ocenebrinae"
 genus: "Ocenebra"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/ocenebra-erinaceus.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

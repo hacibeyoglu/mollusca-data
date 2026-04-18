@@ -1,25 +1,17 @@
 ---
 title: "Haliotis tuberculata"
-rank: species
 authority: "Linnaeus, 1758"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Vetigastropoda"
 order: "Lepetellida"
 superfamily: "Haliotoidea"
 family: "Haliotidae"
 genus: "Haliotis"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/haliotis-tuberculata.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

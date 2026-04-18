@@ -1,9 +1,7 @@
 ---
 title: "Cerastoderma glaucum"
-rank: species
 authority: "(Bruguière, 1789)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Bivalvia"
 subclass: "Autobranchia"
 order: "Cardiida"
@@ -12,16 +10,10 @@ family: "Cardiidae"
 subfamily: "Lymnocardiinae"
 tribe: "Cerastodermatini"
 genus: "Cerastoderma"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/cerastoderma-glaucum.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

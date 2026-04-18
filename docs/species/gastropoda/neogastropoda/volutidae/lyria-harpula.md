@@ -1,9 +1,7 @@
 ---
 title: "Lyria harpula"
-rank: species
 authority: "(Lamarck, 1803)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Neogastropoda"
@@ -12,16 +10,10 @@ family: "Volutidae"
 subfamily: "Volutinae"
 tribe: "Lyriini"
 genus: "Lyria"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/lyria-harpula.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

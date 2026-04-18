@@ -1,25 +1,17 @@
 ---
 title: "Melanopsis kotschyi"
-rank: species
 authority: "(R. A. Philippi, 1847)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Caenogastropoda"
 order: "Unclassified"
 superfamily: "Cerithioidea"
 family: "Melanopsidae"
 genus: "Melanopsis"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/melanopsis-kotschyi.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

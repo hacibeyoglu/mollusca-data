@@ -1,9 +1,7 @@
 ---
 title: "Odostomia turrita"
-rank: species
 authority: "Hanley, 1844"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
@@ -11,16 +9,10 @@ superfamily: "Pyramidelloidea"
 family: "Pyramidellidae"
 subfamily: "Odostomiinae"
 genus: "Odostomia"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/odostomia-turrita.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

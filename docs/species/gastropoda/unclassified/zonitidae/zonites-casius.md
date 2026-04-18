@@ -1,25 +1,17 @@
 ---
 title: "Zonites casius"
-rank: species
 authority: "E. von Martens, 1889"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
 superfamily: "Zonitoidea"
 family: "Zonitidae"
 genus: "Zonites"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/zonites-casius.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

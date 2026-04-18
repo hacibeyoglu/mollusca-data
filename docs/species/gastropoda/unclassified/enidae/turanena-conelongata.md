@@ -1,24 +1,16 @@
 ---
 title: "Turanena conelongata"
-rank: species
 authority: "E. Gittenberger & Menkhorst, 1993"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Unclassified"
 family: "Enidae"
 genus: "Turanena"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/turanena-conelongata.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 

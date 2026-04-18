@@ -1,9 +1,7 @@
 ---
 title: "Flabellina affinis"
-rank: species
 authority: "(Gmelin, 1791)"
 tr_name: "TBD"
-phylum: Mollusca
 class: "Gastropoda"
 subclass: "Heterobranchia"
 order: "Nudibranchia"
@@ -11,16 +9,10 @@ suborder: "Aeolidina"
 superfamily: "Aeolidioidea"
 family: "Flabellinidae"
 genus: "Flabellina"
-seas:
-  - Aegean
-  - Marmara
-  - Levantine
-  - Black Sea
+seas:[]
 depth: "TBD"
 status: "Native"
-images:
-  - image: "/img/species/flabellina-affinis.jpg"
-    description: "TBD"
+images: []
 summary: "TBD"
 ---
 
